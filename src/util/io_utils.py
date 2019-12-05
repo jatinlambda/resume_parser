@@ -1,6 +1,6 @@
 import os
-from keras_en_parser_and_analyzer.library.utility.pdf_utils import pdf_to_text
-from keras_en_parser_and_analyzer.library.utility.docx_utils import docx_to_text
+from src.util.pdf_utils import pdf_to_text
+from src.util.docx_utils import docx_to_text
 
 
 def read_pdf_and_docx(dir_path, collected=None, command_logging=False, callback=None):

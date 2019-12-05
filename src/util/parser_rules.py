@@ -1,12 +1,20 @@
 import re
+import spacy
+from spacy.matcher import Matcher
 
+# load pre-trained model
+nlp = spacy.load('en')
+
+# initialize matcher with a vocab
+matcher = Matcher(nlp.vocab)
 
 def extract_email(s, line):
-    email = None
-    match = re.search(r'[\w\.-]+@[\w\.-]+', line)
-    if match is not None:
-        email = match.group(0)
-    return email
+    email = re.findall("([^@|\s]+@[^@]+\.[^@|\s]+)", line)
+    if email:
+        try:
+            return email[0].split()[0].strip(';')
+        except IndexError:
+            return None
 
 
 def extract_sex(parts, line):
@@ -39,16 +47,11 @@ def extract_education(parts, line):
 
 
 def extract_mobile(parts, line):
-    found = False
-    education = None
-    for w in parts:
-        if 'mobile' in w:
-            found = True
-            continue
-        if found and ':' not in w:
-            education = w
-            break
-    return education
+    phone = re.findall("\\b[1-9][0-9]{9}\\b", line)
+    if phone:
+        return phone[0]
+    else:
+        return "Phone number not provided"
 
 
 def extract_experience(parts, line):
@@ -108,16 +111,18 @@ def extract_ethnicity(parts, line):
 
 
 def extract_name(parts, line):
-    found = False
-    result = None
-    for w in parts:
-        if w.find('name') != -1:
-            found = True
-            continue
-        if found and w.find(':') == -1:
-            result = w
-            break
-    return result
+    nlp_text = nlp(line)
+
+    # First name and Last name are always Proper Nouns
+    pattern = [{'POS': 'PROPN'}, {'POS': 'PROPN'}]
+
+    matcher.add('NAME', None, pattern)
+
+    matches = matcher(nlp_text)
+
+    for match_id, start, end in matches:
+        span = nlp_text[start:end]
+        return span.text
 
 
 def extract_objective(parts, line):

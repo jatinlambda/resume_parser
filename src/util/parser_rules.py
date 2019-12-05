@@ -9,7 +9,7 @@ nlp = spacy.load('en_core_web_sm')
 matcher = Matcher(nlp.vocab)
 
 def extract_email(s, line):
-    email = re.findall("([^@|\s]+@[^@]+\.[^@|\s]+)", line)
+    email = re.findall("[a-zA-Z0-9]+@(?:[a-zA-Z0-9]+\.{0,})+[a-zA-Z]+", line)
     if email:
         try:
             return email[0].split()[0].strip(';')
@@ -47,11 +47,14 @@ def extract_education(parts, line):
 
 
 def extract_mobile(parts, line):
-    phone = re.findall("\\b[1-9][0-9]{9}\\b", line)
+    phone = re.findall(re.compile(r'(?:(?:\+?([1-9]|[0-9][0-9]|[0-9][0-9][0-9])\s*(?:[.-]\s*)?)?(?:\(\s*([2-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9])\s*\)|([0-9][1-9]|[0-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9]))\s*(?:[.-]\s*)?)?([2-9]1[02-9]|[2-9][02-9]1|[2-9][02-9]{2})\s*(?:[.-]\s*)?([0-9]{4})(?:\s*(?:#|x\.?|ext\.?|extension)\s*(\d+))?'), line)
+    
     if phone:
-        return phone[0]
-    else:
-        return "Phone number not provided"
+        number = ''.join(phone[0])
+        if len(number) > 10:
+            return '+' + number
+        else:
+            return number
 
 
 def extract_experience(parts, line):

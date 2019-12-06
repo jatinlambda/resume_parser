@@ -1,0 +1,227 @@
+------------------
+------------------
+------------------
+------------------
+140301047@svuca.edu CARDINAL
+
+------------------
+------------------
+------------------
+------------------
+------------------
+Silicon Valley University ORG
+
+San Jose GPE
+
+California GPE
+
+US GPE
+
+------------------
+------------------
+1 CARDINAL
+
+------------------
+Dweet.io ORG
+
+------------------
+Three CARDINAL
+
+------------------
+2 CARDINAL
+
+------------------
+Raspberry Pi PERSON
+
+Wi-Fi Dongle PERSON
+
+Arduino Micro PERSON
+
+------------------
+------------------
+Jan 2014 DATE
+
+May 2016 DATE
+
+------------------
+------------------
+Inderprastha Engineering College ORG
+
+Ghaziabad GPE
+
+India GPE
+
+------------------
+------------------
+1 CARDINAL
+
+Simple Railway Reservation ORG
+
+------------------
+Java PERSON
+
+a Railway Reservation System ORG
+
+3 months DATE
+
+------------------
+------------------
+------------------
+JavaScript ORG
+
+------------------
+July 2009 DATE
+
+June 2013 DATE
+
+------------------
+2 CARDINAL
+
+Bank Management System in C ORG
+
+------------------
+C++ PRODUCT
+
+------------------
+C++ CARDINAL
+
+2 months DATE
+
+------------------
+------------------
+------------------
+------------------
+C++ CARDINAL
+
+Java ORG
+
+JavaScript ORG
+
+PHP ORG
+
+Python GPE
+
+SQL ORG
+
+------------------
+------------------
+1 CARDINAL
+
+------------------
+------------------
+Tree Technologies Private Limited ORG
+
+------------------
+------------------
+------------------
+------------------
+------------------
+Java ORG
+
+C++ PRODUCT
+
+------------------
+MSRCOSMOS LLC PERSON
+
+California GPE
+
+------------------
+------------------
+May 2017 DATE
+
+------------------
+2016 DATE
+
+Apr 2017 ORG
+
+------------------
+------------------
+------------------
+C++ CARDINAL
+
+Linux PERSON
+
+------------------
+base resources & data ORG
+
+------------------
+------------------
+------------------
+------------------
+1 CARDINAL
+
+------------------
+The council of research and training ORG
+
+Ducat Noida ORG
+
+------------------
+6 WEEKS DATE
+
+------------------
+5th ORDINAL
+
+2011 DATE
+
+Ducat Noida ORG
+
+------------------
+2 CARDINAL
+
+Inderprastha Engineering College ORG
+
+------------------
+Mrigank Shekhar PERSON
+
+1st ORDINAL
+
+FUNDOO WORK_OF_ART
+
+Udbhav ORG
+
+------------------
+2012 DATE
+
+23rd Feb 2012 DATE
+
+25th Feb 2012 DATE
+
+------------------
+3 CARDINAL
+
+Omega Infratech PERSON
+
+------------------
+Mrigank Shekhar PERSON
+
+Bachelor of Computer Science ORG
+
+------------------
+Estimating Systems WORK_OF_ART
+
+Construction Industry WORK_OF_ART
+
+Manger Technical Support ORG
+
+------------------
+Infratech ORG
+
+Greater Noida ORG
+
+the period 10 June 2012 to 25 July 2012 DATE
+
+------------------
+Java ORG
+
+J2EE ORG
+
+SQL ORG
+
+2000 DATE
+
+------------------
+------------------
+------------------
+------------------
+2 CARDINAL
+

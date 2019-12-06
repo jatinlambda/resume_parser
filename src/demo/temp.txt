@@ -1,0 +1,1705 @@
+extracting text from pdf:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_IT1.pdf
+extracting text from pdf:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Fin4.pdf
+extracting text from docx:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV Mfg1.docx
+extracting text from pdf:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Fin5.pdf
+extracting text from pdf:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Sales3.pdf
+extracting text from pdf:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Mfg2.pdf
+extracting text from pdf:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_HR1 .pdf
+extracting text from pdf:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Fin1.pdf
+extracting text from docx:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Fin3.docx
+extracting text from pdf:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_IT4.pdf
+extracting text from pdf:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Fin2.pdf
+extracting text from docx:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Mktng.DOCX
+extracting text from pdf:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_IT3.pdf
+extracting text from pdf:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_IT2.pdf
+extracting text from docx:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Sales1.docx
+extracting text from docx:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Sales2.docx
+extracting text from pdf:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_HR2 Infosys.pdf
+extracting text from docx:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_HR3.docx
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_IT1.pdf
+Mrigank Shekhar
+140301047@svuca.edu
++91 8448932077
+Master of Science in Computer Science (MSCS)
+Silicon Valley University, San Jose, California, US
+1. IoT Cloud Data Dashboard Display
+Tools: Dweet.io, Freeboard.io
+Output: Three Axes Real-Time Display
+2. Stop the Clock
+Tools: Raspberry Pi with Wi-Fi Dongle, Arduino Micro
+Output: IoT Alarm Clock
+Jan 2014 — May 2016
+B.Tech (Computer Science)
+Inderprastha Engineering College, Ghaziabad, India
+1. Simple Railway Reservation in JAVA
+In this project, we chose Java as our programming language to create a Railway Reservation System. It took 3 months to
+finalize the source code and all other documentations. I was one of the group members and finished all the coding
+portions, including graphic user interface.
+Finally it has been polished using JavaScript and has been submitted.
+July 2009 — June 2013
+2. Bank Management System in C ++
+In this project, I was the group leader and we used C++ as our programming language to create the Bank Management
+System. I completed C++ programming & this project has been finalized in 2 months including documentation and source
+This project has been submitted to one of our direct clients by the college.
+C, C++, Java, JavaScript, PHP, Python, MySQL, SQL
+Mrigank Shekhar
+WORK EXPERIENCE
+Monks Tree Technologies Private Limited, Gurgaon
+Software Engineer
+Maintain the company’s current software and applications.
+Create online applications, modify and debug the existing software.
+Perform special requests for different projects.
+Build windows applications using Java and C++.
+MSRCOSMOS LLC, California, USA
+Programmer Analyst
+May 2017 — Present
+Aug 2016 — Apr 2017
+Worked extensively in the field of application programming, application analysis, design of functions and
+programming.
+Operated on C++, Linux; assessing performance and improving it.
+Acquired proficiency with various data base resources & data base management.
+Enhanced performance of communication systems, software storage, security, hardware, network, and others.
+Developed test data, revising program(s) resulting in improved performance.
+ACHIEVEMENTS
+The council of research and training, Ducat Noida certifies that MRIGANK SHEKHAR has been awarded a certificate of
+proficiency in .NET (6 WEEKS) for having successfully completed the program with A Grade.
+The program was conducted during the period 20th JUN 2011 to 5th AUG 2011 given under the seal of Ducat Noida.
+2. Inderprastha Engineering College
+This is to certify that Mr. Mrigank Shekhar, student of I.P.E.C secured 1st position in FIFA-09 (FUNDOO) during Udbhav
+2012, the inter collegiate techno-cultural fiesta from 23rd Feb 2012 to 25th Feb 2012.
+3. Omega Infratech
+This is to certify that Mr. Mrigank Shekhar is a student of Bachelor of Computer Science has done project work in the
+company on "Estimating Systems" for "Construction Industry" under the guidance of Manger Technical Support, Omega
+Infratech, Greater Noida, during the period 10 June 2012 to 25 July 2012.
+He has used Java, J2EE, SQL Server 2000 & Crystal Report 10.0 for this project.
+Available upon request.
+Mrigank Shekhar
+['Mrigank Shekhar', 'CONTACT', 'E-mail:', '140301047@svuca.edu', 'Phone:', '+91 8448932077', 'EDUCATION', 'Master of Science in Computer Science (MSCS)', 'Silicon Valley University, San Jose, California, US', 'Projects:', '1. IoT Cloud Data Dashboard Display', 'Tools: Dweet.io, Freeboard.io', 'Output: Three Axes Real-Time Display', '2. Stop the Clock', 'Tools: Raspberry Pi with Wi-Fi Dongle, Arduino Micro', 'Output: IoT Alarm Clock', 'Jan 2014 — May 2016', 'B.Tech (Computer Science)', 'Inderprastha Engineering College, Ghaziabad, India', 'Projects:', '1. Simple Railway Reservation in JAVA', 'In this project, we chose Java as our programming language to create a Railway Reservation System. It took 3 months to', 'finalize the source code and all other documentations. I was one of the group members and finished all the coding', 'portions, including graphic user interface.', 'Finally it has been polished using JavaScript and has been submitted.', 'July 2009 — June 2013', '2. Bank Management System in C ++', 'In this project, I was the group leader and we used C++ as our programming language to create the Bank Management', 'System. I completed C++ programming & this project has been finalized in 2 months including documentation and source', 'code.', 'This project has been submitted to one of our direct clients by the college.', 'SKILLS', 'C, C++, Java, JavaScript, PHP, Python, MySQL, SQL', 'Mrigank Shekhar', '1', 'WORK EXPERIENCE', 'Monks Tree Technologies Private Limited, Gurgaon', 'Software Engineer', 'Maintain the company’s current software and applications.', 'Create online applications, modify and debug the existing software.', 'Perform special requests for different projects.', 'Build windows applications using Java and C++.', 'MSRCOSMOS LLC, California, USA', 'Programmer Analyst', 'May 2017 — Present', 'Aug 2016 — Apr 2017', 'Worked extensively in the field of application programming, application analysis, design of functions and', 'programming.', 'Operated on C++, Linux; assessing performance and improving it.', 'Acquired proficiency with various data base resources & data base management.', 'Enhanced performance of communication systems, software storage, security, hardware, network, and others.', 'Developed test data, revising program(s) resulting in improved performance.', 'ACHIEVEMENTS', '1. Ducat', 'The council of research and training, Ducat Noida certifies that MRIGANK SHEKHAR has been awarded a certificate of', 'proficiency in .NET (6 WEEKS) for having successfully completed the program with A Grade.', 'The program was conducted during the period 20th JUN 2011 to 5th AUG 2011 given under the seal of Ducat Noida.', '2. Inderprastha Engineering College', 'This is to certify that Mr. Mrigank Shekhar, student of I.P.E.C secured 1st position in FIFA-09 (FUNDOO) during Udbhav', '2012, the inter collegiate techno-cultural fiesta from 23rd Feb 2012 to 25th Feb 2012.', '3. Omega Infratech', 'This is to certify that Mr. Mrigank Shekhar is a student of Bachelor of Computer Science has done project work in the', 'company on "Estimating Systems" for "Construction Industry" under the guidance of Manger Technical Support, Omega', 'Infratech, Greater Noida, during the period 10 June 2012 to 25 July 2012.', 'He has used Java, J2EE, SQL Server 2000 & Crystal Report 10.0 for this project.', 'REFERENCES', 'Available upon request.', 'Mrigank Shekhar', '2']
+name: Mrigank Shekhar
+email: 140301047@svuca.edu
+mobile: Phone number not provided
+expertise: ster of science in computer science (mscs)
+expertise: er interface.
+expertise: ed c++ as our programming language to create the bank management
+expertise: loped test data, revising program(s) resulting in improved performance.
+expertise: ed java, j2ee, sql server 2000 & crystal report 10.0 for this project.
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Fin4.pdf
+Manoj Kumar
+MBA (Finance & Marketing)
+Mobile: 91-8219127771, 9643970922
+mdhiman199@gmail.com
+To  obtain  a  challenging  &  rewarding  position  in  a  professional  environment  utilizing  my
+communication, interpersonal skills & proficiency  will allow  me the  opportunity for growth and
+advancement  towards  a  successful  career  in  customer  service  management  and  administration.  I
+am a team player able to acclimate to new environments very quickly.
+Experience: Eleven Month
+Manipal  Business  Solutions  has  gained  immense  expertise  in  offering  Software  development
+services for website design,  mobile application, consultants & negotiators etc. Manipal Business
+Solutions’  work for the  last Eight Month.   We are located  in Gurugram, Haryana and providing
+Software development services for website design, mobile application, consultants & negotiators
+to the clients.
+Work Experience
+12th Nov 2018 To Till Date   Manipal Business Solutions Pvt. Ltd                     Gurugram
+Reconciliation Officer
+  Reconciling payments to ensure the accounting system reflects the correct
+transactions.
+  General ledger reconciliations.
+  Account reconciliations such as bank, inventory control, clearing, billings etc.
+  Performing daily financial transactions such as verifying, calculating and posting
+Issue receipts to customers on receipt of payments.
+accounts receivable data.
+  Supporting the month end process.
+  Generating month end reports.
+Experience: One & Half Year
+Corporate  Officer  with  one  of  the  India’s  leading  LAW  Company  ‘Corporate  Law
+Professional’  work  for  the  last  One  and  Half  year.  Professional,  responsible  and  resourceful
+team  member  with  an  excellent  organizational,  interpersonal  and  communication  skills  and  is
+able  to  handle  pressure  and  deadlines  efficiently.  Experienced  in  areas  of  customer  service
+management & administration.
+Work Experience
+1st January 2017                               Corporate Law Professional                     Gurugram
+Corporate Officer
+  Represented company to key clientele and prospective customers in a
+positive manner, playing an instrumental role in facilitating business
+development.
+Manoj Kumar
+MBA (Finance & Marketing)
+  Kept the detailed financial records of the business generated by every customer.
+  Understand clients need and provide suitable financial/business scheme to them.
+  Daily Administrative and routine work.
+  Handling Correspondence.
+Sorted out various business/financial problems and solved them individually.
+M.B.A(Finance & Marketing)
+Career Point University, Hamirpur (H.P)
+Diploma in Computer
+Adarsh Institute of Commercial Computer Education
+BBA (Bachelors of Business Administration)
+Himachal Pradesh University, Shimla (H.P)
+Himachal Pradesh Board of School Education, Dharmshala (H.P)
+Personal Information
+Marital Status              Unmarried
+Date of Birth
+02nd Aug. 1992
+Listening to music, Reading books, Treckking, Travelling and
+exploring new places, Interacting with people
+Available on Request
+Permanent Address:  Village Soutta, Post Office Nagrota Gazian, Teh. Bhoranj,Distt.
+Hamirpur-176045 (H.P)
+Place: Gurgaon                                                                                                  Manoj Kumar
+['Manoj Kumar', 'MBA (Finance & Marketing)', 'Mobile: 91-8219127771, 9643970922', 'mdhiman199@gmail.com', 'Objective', 'To  obtain  a  challenging  &  rewarding  position  in  a  professional  environment  utilizing  my', 'communication, interpersonal skills & proficiency  will allow  me the  opportunity for growth and', 'advancement  towards  a  successful  career  in  customer  service  management  and  administration.  I', 'am a team player able to acclimate to new environments very quickly.', 'Experience: Eleven Month', 'Profile', 'Manipal  Business  Solutions  has  gained  immense  expertise  in  offering  Software  development', 'services for website design,  mobile application, consultants & negotiators etc. Manipal Business', 'Solutions’  work for the  last Eight Month.   We are located  in Gurugram, Haryana and providing', 'Software development services for website design, mobile application, consultants & negotiators', 'to the clients.', 'Work Experience', '12th Nov 2018 To Till Date   Manipal Business Solutions Pvt. Ltd                     Gurugram', 'Reconciliation Officer', '\uf0b7  Reconciling payments to ensure the accounting system reflects the correct', 'transactions.', '\uf0b7  General ledger reconciliations.', '\uf0b7  Account reconciliations such as bank, inventory control, clearing, billings etc.', '\uf0b7', '\uf0b7  Performing daily financial transactions such as verifying, calculating and posting', 'Issue receipts to customers on receipt of payments.', 'accounts receivable data.', '\uf0b7  Supporting the month end process.', '\uf0b7  Generating month end reports.', 'Experience: One & Half Year', 'Profile', 'Corporate  Officer  with  one  of  the  India’s  leading  LAW  Company  ‘Corporate  Law', 'Professional’  work  for  the  last  One  and  Half  year.  Professional,  responsible  and  resourceful', 'team  member  with  an  excellent  organizational,  interpersonal  and  communication  skills  and  is', 'able  to  handle  pressure  and  deadlines  efficiently.  Experienced  in  areas  of  customer  service', 'management & administration.', 'Work Experience', '1st January 2017                               Corporate Law Professional                     Gurugram', 'Corporate Officer', '\uf0b7  Represented company to key clientele and prospective customers in a', 'positive manner, playing an instrumental role in facilitating business', 'development.', 'Manoj Kumar', 'MBA (Finance & Marketing)', '\uf0b7  Kept the detailed financial records of the business generated by every customer.', '\uf0b7', '\uf0b7  Understand clients need and provide suitable financial/business scheme to them.', '\uf0b7  Daily Administrative and routine work.', '\uf0b7  Handling Correspondence.', 'Sorted out various business/financial problems and solved them individually.', 'Education', '2014-2016', '2013-2014', '2010-2013', '2006-2009', 'M.B.A(Finance & Marketing)', 'Career Point University, Hamirpur (H.P)', 'Diploma in Computer', 'Adarsh Institute of Commercial Computer Education', 'BBA (Bachelors of Business Administration)', 'Himachal Pradesh University, Shimla (H.P)', 'XII & X', 'Himachal Pradesh Board of School Education, Dharmshala (H.P)', 'Personal Information', 'Marital Status              Unmarried', 'Date of Birth', 'Interest', '02nd Aug. 1992', 'Listening to music, Reading books, Treckking, Travelling and', 'exploring new places, Interacting with people', 'Available on Request', 'References', 'Permanent Address:  Village Soutta, Post Office Nagrota Gazian, Teh. Bhoranj,Distt.', 'Hamirpur-176045 (H.P)', 'Date:', 'Place: Gurgaon                                                                                                  Manoj Kumar']
+name: Manoj Kumar
+email: mdhiman199@gmail.com
+mobile: Phone number not provided
+education: ,
+experience: in
+expertise: lopment
+expertise: lopment services for website design, mobile application, consultants & negotiators
+expertise: lopment.
+expertise: rstand clients need and provide suitable financial/business scheme to them.
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV Mfg1.docx
+CURRICULUM VITAE
+RAJESHWAR PRASAD
+Mobile No. 8750970529
+Rajeshgupta9910160282@gmail.com
+CAREER GOAL
+To secure a challenging Production Manager position in garment manufacturing environment. The position should offer scope for personal growth & development, as well as an opportunity for future career development.15 Years experience in Apparel Production Management with leading garment export houses, in the environment of latest technologies and latest systems, which work for high quality buyers. My objective is to provide some good & effective tools & techniques, which will help to establish an effective production system in the organization. To educate & spread a system of measuring work content, garment costing & production planning correctly, even to create some effective parameters which will help in booking or finalizing orders.
+PRESENTLY WORKING:--
+PEARL APPARELS INC. PLOT NO.- 61A ,SECTOR-57, NOIDA as a Production Head on 300 M/Cs from May 2014 to Till Date Now.
+RESPONSIBILITIES:--
+Cost Control & Manpower Management: Department wise Manpower requirement rationalization based on target strength ratio
+Production Planning & Control: Supervising complete production operations with a view to ensure accomplishment of production targets within time / cost parameters. Managing overall operations, implementing effective techniques to maximize efficiency in production activities and setting the production targets to be attained within time & cost parameters.
+Materials Management: Managing the overall procurement of raw material, packing material, equipment’s & machinery and other production requirements. Identifying and developing potential vendors / suppliers for achieving cost effective purchases of Raw material achieving reduction in prices and timely deliveries.
+Team Management: Conducting regular periodic meetings & trainings with subordinates for discussing current work issues and devising solutions for enhanced operations. Leading & motivating workforce and imparting continuous on job training for accomplishing greater operational effectiveness / efficiency.
+Co-ordination with merchandisers, store and accounts department for planning, costing and pre & post shipment analysis.
+Follow up fabric & accessories with store department for timely supply.
+Co-ordination with cutting, stitching & finishing department & follow up with printing & embroidery (Hand& Machine) of fabricator.
+Quality adherence of production & timely supply of goods as per Buyer’s commitment Implementation of quality control procedures with in the departments.
+Making production & finishing, planning & production targets fixing.
+Formulate a comprehensive working plan to improve production efficiency with quality of goods.
+Analyzing all kinds of report similar production and quality dept. & communicating the same to concerned persons.
+Garment construction and technical Knowledge.
+Production planning for the lines (manpower, machine and styles)
+Line performance analysis (efficiency, man to machine ratio, cost/pieces) and plan for continuous improvement
+Discussion with other team members (like merchants, fabric manager, cutting team, planning team)
+Taking main role in PP meeting
+Looking after job works (such as printing, embroidery, garment dying etc) and taking decision on selection vendors for job work
+Giving instruction to the line In-charges & supervisors
+Planning for Overtime work
+Deciding rate for piece rate employees (sewing, thread cutting, pressing etc.)
+planning and organizing production schedules
+estimating, negotiating and agreeing budgets and timescales with clients and managers
+overseeing production processes
+PREVIOUS WORKING EXPERIENCE:--
+Company: SHREE CHAITANYA INT. PLOT NO- A-68, SEC.-4 NOIDA.
+DESIGNATION : Production Manager.
+Period : Since, June 2009 to July2014.
+Company: SHREE CHAITANYA INT. PLOT NO- A-68, SEC.-4 NOIDA.
+DESIGNATION : ASST. Production Manager.
+Period : Since, June 2007 to July2009.
+Company: SAHU EXPORT. PLOT NO- B-1, SEC.-8, NOIDA.
+DESIGNATION : QA HEAD.
+Period : Since, 2005 to 2008.
+MAJOR STRENGTHS:--
+Team work with customers, Client satisfaction an objective, Strong sense of responsibility, welcome suggestions, innovation, organized work and taking calculated decisions, experienced in work. Willing to be trained in new advanced technologies.
+ACADEMIC QUALIFICATIONS:--
+10th from Bihar Board, Bihar
+12th from Bihar Board, Bihar
+B.Sc. from T.N College,Corba.
+Diploma in ATDC
+PERSONAL DETAILS:--
+Father’s Name : Shri Dev Lal Prasad
+Date of Birth : 10th Jan, 1978
+Permanent Address : Village- Loharahi, Chhatpur , Dis- Palamau (Jharkhand)
+Marital Status : Married
+Nationality : Indian
+Languages Known : Hindi, English
+DECLARATION:--
+I hereby affirm the above said information is accurate and true to the best of my knowledge (Rajeshwar Prasad)
+['CURRICULUM VITAE', 'RAJESHWAR PRASAD', 'Mobile No. 8750970529', 'Rajeshgupta9910160282@gmail.com', 'CAREER GOAL', 'To secure a challenging Production Manager position in garment manufacturing environment. The position should offer scope for personal growth & development, as well as an opportunity for future career development.15 Years experience in Apparel Production Management with leading garment export houses, in the environment of latest technologies and latest systems, which work for high quality buyers. My objective is to provide some good & effective tools & techniques, which will help to establish an effective production system in the organization. To educate & spread a system of measuring work content, garment costing & production planning correctly, even to create some effective parameters which will help in booking or finalizing orders.', 'PRESENTLY WORKING:--', 'PEARL APPARELS INC. PLOT NO.- 61A ,SECTOR-57, NOIDA as a Production Head on 300 M/Cs from May 2014 to Till Date Now.', 'RESPONSIBILITIES:--', 'Cost Control & Manpower Management: Department wise Manpower requirement rationalization based on target strength ratio', 'Production Planning & Control: Supervising complete production operations with a view to ensure accomplishment of production targets within time / cost parameters. Managing overall operations, implementing effective techniques to maximize efficiency in production activities and setting the production targets to be attained within time & cost parameters.', 'Materials Management: Managing the overall procurement of raw material, packing material, equipment’s & machinery and other production requirements. Identifying and developing potential vendors / suppliers for achieving cost effective purchases of Raw material achieving reduction in prices and timely deliveries.', 'Team Management: Conducting regular periodic meetings & trainings with subordinates for discussing current work issues and devising solutions for enhanced operations. Leading & motivating workforce and imparting continuous on job training for accomplishing greater operational effectiveness / efficiency.', 'Co-ordination with merchandisers, store and accounts department for planning, costing and pre & post shipment analysis.', 'Follow up fabric & accessories with store department for timely supply.', 'Co-ordination with cutting, stitching & finishing department & follow up with printing & embroidery (Hand& Machine) of fabricator.', 'Quality adherence of production & timely supply of goods as per Buyer’s commitment Implementation of quality control procedures with in the departments.', 'Making production & finishing, planning & production targets fixing.', 'Formulate a comprehensive working plan to improve production efficiency with quality of goods.', 'Analyzing all kinds of report similar production and quality dept. & communicating the same to concerned persons.', 'Garment construction and technical Knowledge.', 'Production planning for the lines (manpower, machine and styles)', 'Line performance analysis (efficiency, man to machine ratio, cost/pieces) and plan for continuous improvement', 'Discussion with other team members (like merchants, fabric manager, cutting team, planning team)', 'Taking main role in PP meeting', 'Looking after job works (such as printing, embroidery, garment dying etc) and taking decision on selection vendors for job work', 'Giving instruction to the line In-charges & supervisors', 'Planning for Overtime work', 'Deciding rate for piece rate employees (sewing, thread cutting, pressing etc.)', 'planning and organizing production schedules', 'estimating, negotiating and agreeing budgets and timescales with clients and managers', 'overseeing production processes', 'PREVIOUS WORKING EXPERIENCE:--', 'Company: SHREE CHAITANYA INT. PLOT NO- A-68, SEC.-4 NOIDA.', 'DESIGNATION : Production Manager.', 'Period : Since, June 2009 to July2014.', 'Company: SHREE CHAITANYA INT. PLOT NO- A-68, SEC.-4 NOIDA.', 'DESIGNATION : ASST. Production Manager.', 'Period : Since, June 2007 to July2009.', 'Company: SAHU EXPORT. PLOT NO- B-1, SEC.-8, NOIDA.', 'DESIGNATION : QA HEAD.', 'Period : Since, 2005 to 2008.', 'MAJOR STRENGTHS:--', 'Team work with customers, Client satisfaction an objective, Strong sense of responsibility, welcome suggestions, innovation, organized work and taking calculated decisions, experienced in work. Willing to be trained in new advanced technologies.', 'ACADEMIC QUALIFICATIONS:--', '10th from Bihar Board, Bihar', '12th from Bihar Board, Bihar', 'B.Sc. from T.N College,Corba.', 'Diploma in ATDC', 'PERSONAL DETAILS:--', 'Father’s Name : Shri Dev Lal Prasad', 'Date of Birth : 10th Jan, 1978', 'Permanent Address : Village- Loharahi, Chhatpur , Dis- Palamau (Jharkhand)', 'Marital Status : Married', 'Nationality : Indian', 'Sex : Male', 'Languages Known : Hindi, English', 'DECLARATION:--', 'I hereby affirm the above said information is accurate and true to the best of my knowledge (Rajeshwar Prasad)']
+name: Rajeshwar Prasad
+email: Rajeshgupta9910160282@gmail.com
+mobile: Phone number not provided
+experience: in
+objective: ,
+expertise: es, in the environment of latest technologies and latest systems, which work for high quality buyers. my objective is to provide some good & effective tools & techniques, which will help to establish an effective production system in the organization. to educate & spread a system of measuring work content, garment costing & production planning correctly, even to create some effective parameters which will help in booking or finalizing orders.
+expertise: loping potential vendors / suppliers for achieving cost effective purchases of raw material achieving reduction in prices and timely deliveries.
+expertise: ledge.
+expertise: n  hindi, english
+expertise: ledge (rajeshwar prasad)
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Fin5.pdf
+Curriculum -Vitae
+Name     :   Ankit Kumar
+Address:   H N -876, Gali No-1,
+Arjun Nagar , Gurugram
+Phone    :   8755219948
+E-mail   :   ak734280@gmail.com
+OBJECTIVE:-
+•  To work with a reputed organization in a challenging profile and contribute optimally
+towards the achievement of organizational goals as well as in the pursuit of my own career
+PROFESSIONAL EXPERIENCE:
+•  Current Working as an Accountant in Bihani Marketing Pvt Ltd from Oct-17 to till date,
+•  Working as Executive in Tax advisors Zone from April-16 to Sep-17
+Computer knowledge :
+Basic Computer knowledge
+•  Marg software
+Tally ERP 9
+Key Responsible Area :
+•  Maintain Day-to-Day accounting.
+•  Pass daily expenses and other entries in books.
+•  Bank Reconciliation, coordinating with banks &amp; reconciliation with Accounts
+Inventory management and physical audit on monthly basis.
+Receivable &amp; Accounts Payable.
+•  Maintain Sales &amp; Purchase register
+•  Maintain Cash Book &amp; Bank Register and reconciliation
+•  Maintain all types of Accounting Works including Manual &amp; Computerized Works.
+•  Making payments to the parties, by way of cheques and by accepting bills payables
+and making suitable entries in books
+•  Make regular reports for the Management on income, expenditure and any
+variations from budgets.
+•  Responsible for the following financial management functions;
+•  Control all General Ledger related postings.
+•  Control the reconciliation of individual Creditors.
+•  Filling GST R-1, 3B & ITC-04
+•  Reconciliation of R-2A with Input of GST in Books
+•  Filling E-way bill
+Desired Job Details:-
+•  Job Type                        : Permanent
+•  Employment Status      : Full Time
+EDUCATIONAL QULIFICATION:-
+•  Passed High school from UP Board in year 2007.
+•  Passed Intermediate from UP Board in year 2009.
+•  Passed B.Com from MJPRU Bareilly in year 2013.
+PERSONAL PROFILE:-
+•  Father’s Name
+•  Date of Birth
+•  Marital Status
+•  Nationality
+•  Languages known
+Mr. VED PRAKASH
+03-Feb-1990
+English, Hindi and Regional language
+•  Listening Music and playing cricket.
+•  Net surfing.
+•  Reading books.
+LANGUAGES KNOWN:-
+•  English, Hindi and Regional language.
+DECLERATION:-
+I hereby declare that all information given above is correct to the best of my knowledge.
+Ankit Kumar
+['Curriculum -Vitae', 'Name     :   Ankit Kumar', 'Address:   H N -876, Gali No-1,', 'Arjun Nagar , Gurugram', 'Haryana', 'Phone    :   8755219948', 'E-mail   :   ak734280@gmail.com', 'OBJECTIVE:-', '•  To work with a reputed organization in a challenging profile and contribute optimally', 'towards the achievement of organizational goals as well as in the pursuit of my own career', 'growth.', 'PROFESSIONAL EXPERIENCE:', '•  Current Working as an Accountant in Bihani Marketing Pvt Ltd from Oct-17 to till date,', '•  Working as Executive in Tax advisors Zone from April-16 to Sep-17', 'Computer knowledge :', 'Basic Computer knowledge', '•', '•', '•  Marg software', 'Tally ERP 9', 'Key Responsible Area :', '•  Maintain Day-to-Day accounting.', '•', '•  Pass daily expenses and other entries in books.', '•  Bank Reconciliation, coordinating with banks &amp; reconciliation with Accounts', 'Inventory management and physical audit on monthly basis.', 'Receivable &amp; Accounts Payable.', '•  Maintain Sales &amp; Purchase register', '•  Maintain Cash Book &amp; Bank Register and reconciliation', '•  Maintain all types of Accounting Works including Manual &amp; Computerized Works.', '•  Making payments to the parties, by way of cheques and by accepting bills payables', 'and making suitable entries in books', '•  Make regular reports for the Management on income, expenditure and any', 'variations from budgets.', '•  Responsible for the following financial management functions;', '•  Control all General Ledger related postings.', '•  Control the reconciliation of individual Creditors.', '•  Filling GST R-1, 3B & ITC-04', '•  Reconciliation of R-2A with Input of GST in Books', '•  Filling E-way bill', 'Desired Job Details:-', '•  Job Type                        : Permanent', '•  Employment Status      : Full Time', 'EDUCATIONAL QULIFICATION:-', '•  Passed High school from UP Board in year 2007.', '•  Passed Intermediate from UP Board in year 2009.', '•  Passed B.Com from MJPRU Bareilly in year 2013.', 'PERSONAL PROFILE:-', '•  Father’s Name', '•  Date of Birth', '•  Sex', '•  Marital Status', '•  Nationality', '•  Languages known', ':', ':', ':', ':', ':', ':', 'Mr. VED PRAKASH', '03-Feb-1990', 'Male', 'Married', 'Indian', 'English, Hindi and Regional language', 'HOBBIES:-', '•  Listening Music and playing cricket.', '•  Net surfing.', '•  Reading books.', 'LANGUAGES KNOWN:-', '•  English, Hindi and Regional language.', 'DECLERATION:-', 'I hereby declare that all information given above is correct to the best of my knowledge.', 'Place……….', 'Date………….', 'Ankit Kumar']
+name: Ankit Kumar
+email: ak734280@gmail.com
+mobile: Phone number not provided
+education: qulification
+objective: -
+expertise: ledge
+expertise: ledge
+expertise: n
+expertise: n-
+expertise: ledge.
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Sales3.pdf
+Sr. SALES AND MARKETING Engg.
+SUNITA SINGH
+Indian machine mart. (www.indianmachinemart.com)
+Contact No. +91-9315461971
+E MAIL: tonysunita17@gmail.com,
+Professional skills
+Personal Statement
+Business Development          Managerial                        Personal
+A creative, persistent,
+agile and driven business
+development manager who is
+more than able to nurture
+relationships with existing
+clients and to develop new
+business opportunities. Neil is
+an expert at putting together
+penetrative marketing strategies
+that can help businesses to fulfill
+their potential. On an individual
+level she is someone who is
+committed to his own personal
+development and progression.
+She has an enthusiastic
+approach to direct sales, and
+possesses a proven track record
+of achieving targets in a
+competitive environment. Right
+now I am  looking for a suitable
+position with a company that is
+well-positioned for continued
+growth and development.
+Orientation
+Administrative skills
+Problem solving
+Client management
+Supply chain Product
+development
+Export management
+Field Closure
+Intelligence Business
+Business sales
+Market research
+Developing new
+Client retention
+Lead generation
+procurement
+Account management
+Employment history
+Indian Machine mart
+Professionalism
+Highly motivated
+Can handle stress
+Always pro-active
+Well organized
+Conscientious
+Digital marketing
+From May 2016 –Present working as Sr. Sales and Markting Engg  at
+Indian Machine Mart.
+Journey of Indian Machine Mart.
+May 2016 –Aug 2016 Content Writer at Indian Machine Mart.
+Sept. 2016 – Apr 2017 Sales Engineer domestic
+May 2017- Oct. 2017 Business Development & Sr. Sales Engg.(Domestic +
+Nov 2017- present Sr. Sales and Markting Engg at Indian Machine Mart.
+Job Responsibilities:-
+• Utilize effective prospecting, networking, research, telemarketing, lead
+qualification, Social Media opportunity development and indirect selling
+techniques to increase leads.
+• Responsible for utilizing company contact lists to generate revenue
+•Responsible for identifying new sales opportunities, setting appointments and generating revenue.
+•Visiting various customers which include all Manufacturing Industries , OEMs introducing range of products,
+Govt. Sectors and NGOs provide technical solution and presentation of company products to generate
+• Co-ordinate with all the Vendors,  traders & Company Purchase Head for sale, dispatch, new orders,
+payments, service, installation, etc .
+• Preparing materials for in-house meetings, prospect and client meetings and factory visits.
+• Frequently communicating with distributors, company representatives and key clients to resolve any Queries
+as to business practices.
+• Create detailed sales reports to present to management and describing weak areas and initiating ideas to
+adapt future sales strategies.
+•Prepare instructional, descriptive and application literature for existing and new products along with competitive
+product’s periodic reports.  Maintain pricing information on choice products regarding both Machines and spares.
+• Handle orders by telephone, B2B, B2C meetings email or mail and check that they include correct prices,
+discounts and product numbers, contacting customers to resolve any queries.
+• Sales and promotion of New Products/Machinery by using different classified options like B2B & B2C, Cold
+Calling, YouTube, LinkedIn, Fb, other portals etc.
+• Maintain up-to-date knowledge of industry and competition. Responsible for qualifying leads based on
+factors such as the prospect’s budget and requirements and passing it along to the sales team after it is entered
+into their company database.
+• Attending client meetings at client site and updating sales lead activity and contact information.
+• Maintaining sales report by collecting, analyzing, and summarizing sales data.
+• Tracks product line sales and costs by analyzing and entering sales, expense, and new business data. Take care
+of all the order (Including Branches) till dispatch and complete payment, handling all the stock updating.
+• Lead Management through the following steps.
+[Lead generation ►lead distribution ►lead follow up ► Price Negotiation ►Closure]
+• Maintain customer relation through Customer retention process.
+[Taking regular service follow up, monthly product updating, random satisfactory call etc.]
+•Maintaining Social Sites and regular update of IMM activity and content writing.
+•Every day new machine learning task as per customer requirement.
+Core Qualifications
+  Holds five performance awards from respected industry organizations
+  Strong ability to network with key decision makers
+  Exceptional communication and presentation skills
+  Able to work independently or as part of a team
+  Extremely organized when it comes to client information
+  Able to work any size territory and meet all sales goals
+  Able to travel 60+ Km perday and do 2-3 meeting as per schedule.
+Qualification
+B.Tech (Electronics and Telecommunication) - 2011 - 2015 from B.P.U.T University, Odisha
+Intermediate - 2010-2011 from C.B.S.E Board (D.A.V Public School), Jharkhand
+Personal Details
+D/O Geeta Devi & Parmendu Kumar Singh
+Belongs to Ranchi, Jharkhand, India
+D.O.B : 5th ,March,1992
+Language: Hindi, English & Odiya
+Martial Status : Unmarried
+I hereby declare that all the information furnished above are true, complete, and correct to the best of my knowledge and belief,
+and will be supported by original documents whenever required.
+Date: 12/10/2019                                                                                                                                                               Place:      Delhi
+(Sunita Singh)
+['Sr. SALES AND MARKETING Engg.', 'SUNITA SINGH', 'Indian machine mart. (www.indianmachinemart.com)', 'Contact No. +91-9315461971', 'E MAIL: tonysunita17@gmail.com,', 'Professional skills', 'Personal Statement', 'Business Development          Managerial                        Personal', 'Skills', 'A creative, persistent,', 'agile and driven business', 'development manager who is', 'more than able to nurture', 'relationships with existing', 'clients and to develop new', 'business opportunities. Neil is', 'an expert at putting together', 'penetrative marketing strategies', 'that can help businesses to fulfill', 'their potential. On an individual', 'level she is someone who is', 'committed to his own personal', 'development and progression.', 'She has an enthusiastic', 'approach to direct sales, and', 'possesses a proven track record', 'of achieving targets in a', 'competitive environment. Right', 'now I am  looking for a suitable', 'position with a company that is', 'well-positioned for continued', 'growth and development.', 'Commercial', 'Orientation', 'Administrative skills', 'Problem solving', 'Client management', 'Supply chain Product', 'development', 'Export management', 'Field Closure', 'Competitor', 'Intelligence Business', 'Business sales', 'Market research', 'Developing new', 'accounts', 'Client retention', 'Lead generation', 'Commercial', 'procurement', 'Account management', 'Indian', 'Employment history', 'Indian Machine mart', 'Leadership', 'Professionalism', 'Highly motivated', 'Can handle stress', 'Always pro-active', 'Well organized', 'Conscientious', 'Digital marketing', 'MS office.', 'From May 2016 –Present working as Sr. Sales and Markting Engg  at', 'Indian Machine Mart.', 'Journey of Indian Machine Mart.', 'May 2016 –Aug 2016 Content Writer at Indian Machine Mart.', 'Sept. 2016 – Apr 2017 Sales Engineer domestic', 'May 2017- Oct. 2017 Business Development & Sr. Sales Engg.(Domestic +', 'Export)', 'Nov 2017- present Sr. Sales and Markting Engg at Indian Machine Mart.', 'Job Responsibilities:-', '• Utilize effective prospecting, networking, research, telemarketing, lead', 'qualification, Social Media opportunity development and indirect selling', 'techniques to increase leads.', '• Responsible for utilizing company contact lists to generate revenue', '•Responsible for identifying new sales opportunities, setting appointments and generating revenue.', '•Visiting various customers which include all Manufacturing Industries , OEMs introducing range of products,', 'Govt. Sectors and NGOs provide technical solution and presentation of company products to generate', 'inquiries.', '• Co-ordinate with all the Vendors,  traders & Company Purchase Head for sale, dispatch, new orders,', 'payments, service, installation, etc .', '• Preparing materials for in-house meetings, prospect and client meetings and factory visits.', '• Frequently communicating with distributors, company representatives and key clients to resolve any Queries', 'as to business practices.', '• Create detailed sales reports to present to management and describing weak areas and initiating ideas to', 'adapt future sales strategies.', '•Prepare instructional, descriptive and application literature for existing and new products along with competitive', 'product’s periodic reports.  Maintain pricing information on choice products regarding both Machines and spares.', '• Handle orders by telephone, B2B, B2C meetings email or mail and check that they include correct prices,', 'discounts and product numbers, contacting customers to resolve any queries.', '• Sales and promotion of New Products/Machinery by using different classified options like B2B & B2C, Cold', 'Calling, YouTube, LinkedIn, Fb, other portals etc.', '• Maintain up-to-date knowledge of industry and competition. Responsible for qualifying leads based on', 'factors such as the prospect’s budget and requirements and passing it along to the sales team after it is entered', 'into their company database.', '• Attending client meetings at client site and updating sales lead activity and contact information.', '• Maintaining sales report by collecting, analyzing, and summarizing sales data.', '• Tracks product line sales and costs by analyzing and entering sales, expense, and new business data. Take care', 'of all the order (Including Branches) till dispatch and complete payment, handling all the stock updating.', '• Lead Management through the following steps.', '[Lead generation ►lead distribution ►lead follow up ► Price Negotiation ►Closure]', '• Maintain customer relation through Customer retention process.', '[Taking regular service follow up, monthly product updating, random satisfactory call etc.]', '•Maintaining Social Sites and regular update of IMM activity and content writing.', '•Every day new machine learning task as per customer requirement.', 'Core Qualifications', '\uf0b7  Holds five performance awards from respected industry organizations', '\uf0b7  Strong ability to network with key decision makers', '\uf0b7  Exceptional communication and presentation skills', '\uf0b7  Able to work independently or as part of a team', '\uf0b7  Extremely organized when it comes to client information', '\uf0b7  Able to work any size territory and meet all sales goals', '\uf0b7  Able to travel 60+ Km perday and do 2-3 meeting as per schedule.', 'Qualification', 'B.Tech (Electronics and Telecommunication) - 2011 - 2015 from B.P.U.T University, Odisha', 'Intermediate - 2010-2011 from C.B.S.E Board (D.A.V Public School), Jharkhand', 'Personal Details', 'D/O Geeta Devi & Parmendu Kumar Singh', 'Belongs to Ranchi, Jharkhand, India', 'D.O.B : 5th ,March,1992', 'Language: Hindi, English & Odiya', 'Martial Status : Unmarried', 'I hereby declare that all the information furnished above are true, complete, and correct to the best of my knowledge and belief,', 'and will be supported by original documents whenever required.', 'Date: 12/10/2019                                                                                                                                                               Place:      Delhi', '(Sunita Singh)']
+name: Sunita Singh
+email: tonysunita17@gmail.com,
+mobile: Phone number not provided
+expertise: lopment          managerial                        personal
+expertise: lopment manager who is
+expertise: lop new
+expertise: lopment and progression.
+expertise: lopment.
+expertise: lopment
+expertise: loping new
+expertise: lopment & sr. sales engg.(domestic +
+expertise: lopment and indirect selling
+expertise: e meetings, prospect and client meetings and factory visits.
+expertise: ledge of industry and competition. responsible for qualifying leads based on
+expertise: ledge and belief,
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Mfg2.pdf
+Uday Sharma
+Date of Birth:    7th August 1988
+Father’s Name:  Mr. Kishan Prasad Sharma
+Current Address:  A‐8 Sector ‐3, Noida
+SUMMARY:  I am a self‐oriented person and an effective team member. I want to grow as a Merchandiser being a part of a
+growth oriented organization that recognizes and values individual contribution.
+Responsibilities:
+Nationality: Indian
+Telephone: +91 8860020680
+Email‐uscreativedesigner@outlook.com
+  Product Development
+  Prospective order Planning
+  Costing’s and price negotiations
+  Order Confirmation and Pre‐Production Planning Complete Order Prosecution till Shipment
+  Assuring quality of the product
+  Take Care of New Development and Digital
+Specialties:
+  Proven Prioritization
+  Self‐Management
+  Strong Follow up
+  Price Negotiation with Vendors
+  Research and Development for New Quality and Design Make CAD in Photoshop with Excellent Speed
+Specialties:    Merchandising and designing fashion jewelry, High Fashion Garments and Scarves.
+June 15 ‐ Till Date      Sahu Exports (Noida)
+(Senior Merchandiser) (Buyer – Joie / Scantury Clothing / Lucky Brand)
+  Making TNA according to buyer order lead time.
+  Follow up with testing lab including FPT/GPT
+  Taking approvals on LAB DIP, Mock, FIT samples.
+  Order Trims and Fabric with Fabric team and Accessories team.
+  Follow up with suppliers, mills and printers.
+  Production Planning with PPC department.
+  Attending buyer meetings / Cost meeting to meet buyer target.
+  Strong follow up with production team to ship goods on time.
+  Follow up with buying team and buyer to get all approval on samples and submissions on time.
+  All internal task doing with KPLANNER and APPS application.
+July 13 – June 15       Arvind Kumar & Co (Noida)
+(Senior Merchandiser) (Buyers – Antica Sartoria )
+• Develop new Samples according to buyer selections
+• Co‐ordination with sampling co‐coordinators, masters and other team members.
+• Follow up production status for quality and meeting delivery dates.
+• To co‐ordinate with production manager from planning to execution of the order
+• To deal with fabricators, dyers and other team members to get the best product.
+• To manage diverse activities like sourcing of fabrics and accessories.
+• To understand the colors, moods and seasons and thereafter to design & develop value added goods
+Accordingly.
+• Interfacing with the buyers / buying agencies for order and sampling related issues and status updates.
+• Product layout planning for new stores in conjunction with category head, operations & store planning
+May 12‐ June 13        V.P. International (Gurgaon)
+(Designer cum Merchandiser) (Buyer‐ Debenhams /  ICC Company / TJ MAXX)
+• Make new Scarves Designs on CAD Photoshop.
+• Make all new samples and development detail in ERP (TEXMA).
+• Preparing Buyer’s new developments as per specification.
+• Daily correspondent with Buyers.
+• Take care of new developments related Fashion Accessories.
+• Keep all New Quality Record and Make Catalogue for Buyer Presentation.
+• Daily Update New samples and Development sample record with Taking Digitals.
+• Make Presentation every month with new collection and designs for Buyer.
+• Coordinate with buyer’s Design teams for new Developments.
+• Chasing with Suppliers.
+• Manage Stock of Balance samples from Production and Fabrics.
+• Manage Showroom for Buyer visit as per Buyer’s mood board.
+July 10‐ April 12        KANAHIYA EXPORTS (Noida)
+(Merchandiser) ( Buyer –LPP.SA)
+• Coordinate with Sampling coordinators and Designers
+• Preparing sample as per specification
+• Make all new samples and development detail in ERP (TEXMA).
+• Take care of new developments related Fashion Accessories.
+• Sample Coding and Manage Showroom.
+• Daily Update New samples and Development sample record with Taking Digitals.
+July 09 – March‐10     ALLIED EXPORT INDUSTRIES (Noida)
+(Trainee Merchandiser)
+• Assist with Merchandising and Sampling
+• Helped with Quality Control
+• Proper record keeping and storage of master samples as per buyer list
+• Keep the record of all Buyers Correspondence.
+(2005 ‐ 2007)  NATIONAL INSTITUTE OF OPEN SCHOOL
+Class XII (Equivalent to ‘A’ Levels)
+Courses included: Business Studies, Mathematics & Accountancy
+(2008)  NIIT (New Delhi)
+Computer Hardware and Networking (A+)
+(2009 ‐ 2011)  APPAREL TRAINING & DESIGN CENTRE
+FASHION DESIGNING AND TECHNOLOGY (B+)
+ADDITIONAL SKILLS:
+IT Skills Computer Literate:
+Adobe Photoshop (Excellent Speed)
+  MS Office ( Word | Excel| PowerPoint | Outlook )
+  Corel Draw
+  Adobe InDesign
+  Adobe Illustrator
+  Smart Draw CAD
+  ERP (TEXMA)
+  OS XP | Windows 7 | Windows 8 | Mac Leopard
+  Hardware and Networking
+  Knowledge of All Kind of Software’s
+PERSONAL INTRESTS:  Listening Music |Travelling | Reading Biographies and Nobles.
+LANGUAGES:     Hindi (Native Speaker) & English (Working Knowledge)
+DECLARATION: I hereby declare that the information furnished above is true to the best of my knowledge.
+( Uday Sharma )
+['Uday Sharma', 'Date\xa0of\xa0Birth:\xa0\xa0\xa0\xa07th\xa0August\xa01988', 'Father’s\xa0Name:\xa0\xa0Mr.\xa0Kishan\xa0Prasad\xa0Sharma', 'Current\xa0Address:\xa0\xa0A‐8\xa0Sector\xa0‐3,\xa0Noida', 'SUMMARY:\xa0\xa0I\xa0am\xa0a\xa0self‐oriented\xa0person\xa0and\xa0an\xa0effective\xa0team\xa0member.\xa0I\xa0want\xa0to\xa0grow\xa0as\xa0a\xa0Merchandiser\xa0being\xa0a\xa0part\xa0of\xa0a', 'growth\xa0oriented\xa0organization\xa0that\xa0recognizes\xa0and\xa0values\xa0individual\xa0contribution.', 'Responsibilities:', 'Nationality:\xa0Indian', 'Telephone:\xa0+91\xa08860020680', 'Email‐uscreativedesigner@outlook.com', '\uf0fc  Product\xa0Development', '\uf0fc  Prospective\xa0order\xa0Planning', '\uf0fc  Costing’s\xa0and\xa0price\xa0negotiations', '\uf0fc  Order\xa0Confirmation\xa0and\xa0Pre‐Production\xa0Planning\xa0Complete\xa0Order\xa0Prosecution\xa0till\xa0Shipment', '\uf0fc  Assuring\xa0quality\xa0of\xa0the\xa0product', '\uf0fc  Take\xa0Care\xa0of\xa0New\xa0Development\xa0and\xa0Digital', 'Specialties:', '\uf0fc  Proven\xa0Prioritization', '\uf0fc  Self‐Management', '\uf0fc  Strong\xa0Follow\xa0up', '\uf0fc  Price\xa0Negotiation\xa0with\xa0Vendors', '\uf0fc  Research\xa0and\xa0Development\xa0for\xa0New\xa0Quality\xa0and\xa0Design\xa0Make\xa0CAD\xa0in\xa0Photoshop\xa0with\xa0Excellent\xa0Speed', 'Specialties:\xa0\xa0\xa0\xa0Merchandising\xa0and\xa0designing\xa0fashion\xa0jewelry,\xa0High\xa0Fashion\xa0Garments\xa0and\xa0Scarves.', 'June\xa015\xa0‐\xa0Till\xa0Date\xa0\xa0\xa0\xa0\xa0\xa0Sahu\xa0Exports\xa0(Noida)', '(Senior\xa0Merchandiser)\xa0(Buyer\xa0–\xa0Joie\xa0/\xa0Scantury\xa0Clothing\xa0/\xa0Lucky\xa0Brand)', '\uf0b7  Making\xa0TNA\xa0according\xa0to\xa0buyer\xa0order\xa0lead\xa0time.', '\uf0b7  Follow\xa0up\xa0with\xa0testing\xa0lab\xa0including\xa0FPT/GPT', '\uf0b7  Taking\xa0approvals\xa0on\xa0LAB\xa0DIP,\xa0Mock,\xa0FIT\xa0samples.', '\uf0b7  Order\xa0Trims\xa0and\xa0Fabric\xa0with\xa0Fabric\xa0team\xa0and\xa0Accessories\xa0team.', '\uf0b7  Follow\xa0up\xa0with\xa0suppliers,\xa0mills\xa0and\xa0printers.', '\uf0b7  Production\xa0Planning\xa0with\xa0PPC\xa0department.', '\uf0b7  Attending\xa0buyer\xa0meetings\xa0/\xa0Cost\xa0meeting\xa0to\xa0meet\xa0buyer\xa0target.', '\uf0b7  Strong\xa0follow\xa0up\xa0with\xa0production\xa0team\xa0to\xa0ship\xa0goods\xa0on\xa0time.', '\uf0b7  Follow\xa0up\xa0with\xa0buying\xa0team\xa0and\xa0buyer\xa0to\xa0get\xa0all\xa0approval\xa0on\xa0samples\xa0and\xa0submissions\xa0on\xa0time.', '\uf0b7  All\xa0internal\xa0task\xa0doing\xa0with\xa0KPLANNER\xa0and\xa0APPS\xa0application.', 'July\xa013\xa0–\xa0June\xa015\xa0\xa0\xa0\xa0\xa0\xa0\xa0Arvind\xa0Kumar\xa0&\xa0Co\xa0(Noida)', '(Senior\xa0Merchandiser)\xa0(Buyers\xa0–\xa0Antica\xa0Sartoria\xa0)', '•\xa0Develop\xa0new\xa0Samples\xa0according\xa0to\xa0buyer\xa0selections', '•\xa0Co‐ordination\xa0with\xa0sampling\xa0co‐coordinators,\xa0masters\xa0and\xa0other\xa0team\xa0members.', '•\xa0Follow\xa0up\xa0production\xa0status\xa0for\xa0quality\xa0and\xa0meeting\xa0delivery\xa0dates.', '•\xa0To\xa0co‐ordinate\xa0with\xa0production\xa0manager\xa0from\xa0planning\xa0to\xa0execution\xa0of\xa0the\xa0order', '•\xa0To\xa0deal\xa0with\xa0fabricators,\xa0dyers\xa0and\xa0other\xa0team\xa0members\xa0to\xa0get\xa0the\xa0best\xa0product.', '•\xa0To\xa0manage\xa0diverse\xa0activities\xa0like\xa0sourcing\xa0of\xa0fabrics\xa0and\xa0accessories.', '•\xa0To\xa0understand\xa0the\xa0colors,\xa0moods\xa0and\xa0seasons\xa0and\xa0thereafter\xa0to\xa0design\xa0&\xa0develop\xa0value\xa0added\xa0goods', 'Accordingly.', '•\xa0Interfacing\xa0with\xa0the\xa0buyers\xa0/\xa0buying\xa0agencies\xa0for\xa0order\xa0and\xa0sampling\xa0related\xa0issues\xa0and\xa0status\xa0updates.', '•\xa0Product\xa0layout\xa0planning\xa0for\xa0new\xa0stores\xa0in\xa0conjunction\xa0with\xa0category\xa0head,\xa0operations\xa0&\xa0store\xa0planning', 'Teams.', 'May\xa012‐\xa0June\xa013\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0V.P.\xa0International\xa0(Gurgaon)', '(Designer\xa0cum\xa0Merchandiser)\xa0(Buyer‐\xa0Debenhams\xa0/\xa0\xa0ICC\xa0Company\xa0/\xa0TJ\xa0MAXX)', '•\xa0Make\xa0new\xa0Scarves\xa0Designs\xa0on\xa0CAD\xa0Photoshop.', '•\xa0Make\xa0all\xa0new\xa0samples\xa0and\xa0development\xa0detail\xa0in\xa0ERP\xa0(TEXMA).', '•\xa0Preparing\xa0Buyer’s\xa0new\xa0developments\xa0as\xa0per\xa0specification.', '•\xa0Daily\xa0correspondent\xa0with\xa0Buyers.', '•\xa0Take\xa0care\xa0of\xa0new\xa0developments\xa0related\xa0Fashion\xa0Accessories.', '•\xa0Keep\xa0all\xa0New\xa0Quality\xa0Record\xa0and\xa0Make\xa0Catalogue\xa0for\xa0Buyer\xa0Presentation.', '•\xa0Daily\xa0Update\xa0New\xa0samples\xa0and\xa0Development\xa0sample\xa0record\xa0with\xa0Taking\xa0Digitals.', '•\xa0Make\xa0Presentation\xa0every\xa0month\xa0with\xa0new\xa0collection\xa0and\xa0designs\xa0for\xa0Buyer.', '•\xa0Coordinate\xa0with\xa0buyer’s\xa0Design\xa0teams\xa0for\xa0new\xa0Developments.', '•\xa0Chasing\xa0with\xa0Suppliers.', '•\xa0Manage\xa0Stock\xa0of\xa0Balance\xa0samples\xa0from\xa0Production\xa0and\xa0Fabrics.', '•\xa0Manage\xa0Showroom\xa0for\xa0Buyer\xa0visit\xa0as\xa0per\xa0Buyer’s\xa0mood\xa0board.', 'July\xa010‐\xa0April\xa012\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0KANAHIYA\xa0EXPORTS\xa0(Noida)', '(Merchandiser)\xa0(\xa0Buyer\xa0–LPP.SA)', '•\xa0Coordinate\xa0with\xa0Sampling\xa0coordinators\xa0and\xa0Designers', '•\xa0Preparing\xa0sample\xa0as\xa0per\xa0specification', '•\xa0Make\xa0all\xa0new\xa0samples\xa0and\xa0development\xa0detail\xa0in\xa0ERP\xa0(TEXMA).', '•\xa0Take\xa0care\xa0of\xa0new\xa0developments\xa0related\xa0Fashion\xa0Accessories.', '•\xa0Sample\xa0Coding\xa0and\xa0Manage\xa0Showroom.', '•\xa0Daily\xa0Update\xa0New\xa0samples\xa0and\xa0Development\xa0sample\xa0record\xa0with\xa0Taking\xa0Digitals.', 'July\xa009\xa0–\xa0March‐10\xa0\xa0\xa0\xa0\xa0ALLIED\xa0EXPORT\xa0INDUSTRIES\xa0(Noida)', '(Trainee\xa0Merchandiser)', '•\xa0Assist\xa0with\xa0Merchandising\xa0and\xa0Sampling', '•\xa0Helped\xa0with\xa0Quality\xa0Control', '•\xa0Proper\xa0record\xa0keeping\xa0and\xa0storage\xa0of\xa0master\xa0samples\xa0as\xa0per\xa0buyer\xa0list', '•\xa0Keep\xa0the\xa0record\xa0of\xa0all\xa0Buyers\xa0Correspondence.', 'EDUCATION:', '(2005\xa0‐\xa02007)\xa0 NATIONAL\xa0INSTITUTE\xa0OF\xa0OPEN\xa0SCHOOL', 'Class\xa0XII\xa0(Equivalent\xa0to\xa0‘A’\xa0Levels)', 'Courses\xa0included:\xa0Business\xa0Studies,\xa0Mathematics\xa0&\xa0Accountancy', '(2008)\xa0 NIIT\xa0(New\xa0Delhi)', 'Computer\xa0Hardware\xa0and\xa0Networking\xa0(A+)', '(2009\xa0‐\xa02011)\xa0 APPAREL\xa0TRAINING\xa0&\xa0DESIGN\xa0CENTRE', 'FASHION\xa0DESIGNING\xa0AND\xa0TECHNOLOGY\xa0(B+)', 'ADDITIONAL\xa0SKILLS:', 'IT\xa0Skills\xa0Computer\xa0Literate:', 'Adobe\xa0Photoshop\xa0(Excellent\xa0Speed)', '\uf0fc  MS\xa0Office\xa0(\xa0Word\xa0|\xa0Excel|\xa0PowerPoint\xa0|\xa0Outlook\xa0)', '\uf0fc', '\uf0fc  Corel\xa0Draw', '\uf0fc  Adobe\xa0InDesign', '\uf0fc  Adobe\xa0Illustrator', '\uf0fc  Smart\xa0Draw\xa0CAD', '\uf0fc  ERP\xa0(TEXMA)', '\uf0fc  OS\xa0XP\xa0|\xa0Windows\xa07\xa0|\xa0Windows\xa08\xa0|\xa0Mac\xa0Leopard', '\uf0fc  Hardware\xa0and\xa0Networking', '\uf0fc  Knowledge\xa0of\xa0All\xa0Kind\xa0of\xa0Software’s', 'PERSONAL\xa0INTRESTS:\xa0 Listening\xa0Music\xa0|Travelling\xa0|\xa0Reading\xa0Biographies\xa0and\xa0Nobles.', 'LANGUAGES:\xa0\xa0\xa0\xa0\xa0Hindi\xa0(Native\xa0Speaker)\xa0&\xa0English\xa0(Working\xa0Knowledge)', 'DECLARATION:\xa0I\xa0hereby\xa0declare\xa0that\xa0the\xa0information\xa0furnished\xa0above\xa0is\xa0true\xa0to\xa0the\xa0best\xa0of\xa0my\xa0knowledge.', '( Uday Sharma )']
+name: Uday Sharma
+email: Email‐uscreativedesigner@outlook.com
+mobile: Phone number not provided
+expertise: lopment
+expertise: lopment and digital
+expertise: lopment for new quality and design make cad in photoshop with excellent speed
+expertise: lop new samples according to buyer selections
+expertise: sters and other team members.
+expertise: rstand the colors, moods and seasons and thereafter to design & develop value added goods
+expertise: lopment detail in erp (texma).
+expertise: lopments as per specification.
+expertise: lopments related fashion accessories.
+expertise: lopment sample record with taking digitals.
+expertise: lopments.
+expertise: lopment detail in erp (texma).
+expertise: lopments related fashion accessories.
+expertise: lopment sample record with taking digitals.
+expertise: ster samples as per buyer list
+expertise: ledge of all kind of software’s
+expertise: ledge)
+expertise: ledge.
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_HR1 .pdf
+PALLAVI NANDI
+H. No. 1375, Street No. 40, DDA Flats, Madangir, New Delhi -110062
+Phone: (M) 08826285738
+Email : pallavi12gem@yahoo.in
+Seeking a challenging role in the field of Human Resource to contribute towards organizational
+success and to reach higher echelons in professional background.
+Professional Summary :
+An HR professional with more than3 years of experience in aiding the development of people,
+providing them right opportunities and ultimately creating an engaged workforce.
+What makes me deliver my best at work?I always view things from a balanced perspective of
+looking at the big picture as well as paying attention to detail.I have the ability to effectively
+collaborate with diverse team members.This helps me drive projects to a successful conclusion. I
+continually strive to keep cultivating primarily through reading and seeking regular feedback from
+Professional Experience ( March 2014 - till date)
+Organization
+Sparrow Interactive Pvt.Ltd.
+(Nov. 2014 - till date)
+Designation
+Manager - HR
+October 2016 - present
+Assistant Manager - Hr May 2015 - Sept 2016
+Sr.Executive - Hr
+Nov 2014 - April 2015
+Roles and Responsibilities
+Managing the entire employee life cycle and providing strategic HR partnership to drive People
+Agenda related to Talent Acquisition, Talent Management, Talent Development, Organization
+Structure, Employee Relations, Comp. & Benefits, Employee Engagement, Time & Attendance and
+Learning & Development.
+ Manpower Planning & Recruitment:
+o Manpower planning & budgeting in consultation with department Heads.
+o Managing the complete recruitment life-cycle right from sourcing the best talent
+from diverse sources like Consultants, Job Portals, Head Hunting and releasing
+Internal Job Postings to coordinating for Interviews, conducting HR round of
+interviews, shortlisting of candidates, salary negotiation & On boarding.
+o Conducting Reference check of selected candidates, rolling out the offer & On
+boarding of new joiners.
+o Handled Mass recruitment's like Walk – Ins and Pool Campus Recruitment.
+ Induction, Documentation, Learning & Development & Employee Engagement:
+o Initiated structured On Boarding Program & induction of new joinees and
+facilitating them with all the joining documents.
+o Preparation of Training Calender as per the training needs identified by the team
+leads and the line managers.
+o Facilitating fun-at-work activities at the workplace like Quarterly Awards,Birthday
+celebrations, celebrating various festivals.
+ Performance Management System, Increments & Promotions:
+o Preparation of Appraisal Policy,
+consultation with the management, conduct quarterly reviews along with the team
+leads and the line managers, promotion announcements and generating applicable
+formats, preparing KRA’s
+o Devising Annual Increments Plan, determination of salary ranges for existing roles
+including incremented salaries and bonus payout decisions. Ensure year-end
+compensation decisions are in line with the overall
+talent strategy and reward
+individual performance.
+ Retention, Exits & Separation:
+o Conducting various stay interviews and job satisfaction survey’s
+o Conducting exit interviews and separation formalities
+o Issuing the relieving and experience documents. And ensure full and final settlement
+are processed within time line.
+ Organization Structure & HR Policies:
+o Preparing Organization Structure as per the business plan for the business unit &
+ensuring Job Descriptions for new and existing positions.
+o Preparation of process flow & policies for all HR processes & designed HR
+ HR Analytics & Transactions
+o Responsible for preparation of various HR Dashboards/MIS, HR Analytic’s & HR
+status reports that are shared on Weekly, Monthly & Quarterly basis with the Core
+Leadership Team
+o Managing various other work like preparation of letter formats, Time & Attendance,
+Salary advances, Employee grievances etc. on day to day basis.
+Organization
+Recharge it Now
+Designation
+March 2014 - September 2014
+database,professional sites, headhunting, job postings and mass-mail.
+portal(Naukri,Monster),existing
+ Headhunting & sourcing of candidates by initial screening, and interview process
+ After selection conduct the complete induction process and the joining formalities
+ Handling all payroll related issues and keeping track of the attendance sheets.
+ Doing all the exit formalities like preparing the full and final,NOC,relieving letter, experience
+certificate and conducting exit interviews.
+ Organize and successfully execute Employee Engagement activities.
+Internship:
+Organization
+: Muthoot Fincorp Pvt Ltd
+: HR Intern
+Period of work : Two months
+Project Title
+: Best HR practices of NBFC’s
+ACADEMIC PROJECTS :
+1. Internship Project Report:
+Project Title: “Best HR Practices of N.B.F.C’s”.
+Project Synopsis: For the purpose of the project, a survey was conducted through the means of
+questionnaire, which was served to the management who was involved in the recruitment and the
+Selection process.
+2. Final Project Report:
+Project Title : “Impact of Organizational Climate on Employee Satisfaction level in IT industry”.
+Project Synopsis: This project is a study done on the different factors of Climate which affects the
+Job Satisfaction level of the Employees like the working environment, the company’s policies,
+procedures, culture etc on IT industry.
+ACADEMIC QUALIFICATIONS :
+PGDBM (2012-2014) from NDIM,New Delhi specialized in Human Resource and Marketing.
+Bachelor of Arts - English Literature (2007-2011) from St. Pauls’ C. M. College under Calcutta
+University.
+12th - ISC(2005-2007) from St. James High School,West Bengal.
+10th - ICSE ( 2005) from St. James High School, West Bengal.
+PERSONAL INFORMATION :
+Date of Birth :- 12th June 1989
+Languages Known :- English,Hindi and Bengali
+Father’s Name :- Ajit Kumar Nandi
+Hand Phone :- 08826285738
+Email :- pallavi12gem@yahoo.in
+Snail Mail :- Tarapara, Assammore,P.O Mohitnagar,Dist :- Jalpaiguri,West Bengal -735101.
+['PALLAVI NANDI', 'H. No. 1375, Street No. 40, DDA Flats, Madangir, New Delhi -110062', 'Phone: (M) 08826285738', 'Email : pallavi12gem@yahoo.in', 'Seeking a challenging role in the field of Human Resource to contribute towards organizational', 'success and to reach higher echelons in professional background.', 'Professional Summary :', 'An HR professional with more than3 years of experience in aiding the development of people,', 'providing them right opportunities and ultimately creating an engaged workforce.', 'What makes me deliver my best at work?I always view things from a balanced perspective of', 'looking at the big picture as well as paying attention to detail.I have the ability to effectively', 'collaborate with diverse team members.This helps me drive projects to a successful conclusion. I', 'continually strive to keep cultivating primarily through reading and seeking regular feedback from', 'others.', 'Professional Experience ( March 2014 - till date)', 'Organization', 'Sparrow Interactive Pvt.Ltd.', '(Nov. 2014 - till date)', 'Designation', 'Manager - HR', 'Duration', 'October 2016 - present', 'Assistant Manager - Hr May 2015 - Sept 2016', 'Sr.Executive - Hr', 'Nov 2014 - April 2015', 'Roles and Responsibilities', 'Managing the entire employee life cycle and providing strategic HR partnership to drive People', 'Agenda related to Talent Acquisition, Talent Management, Talent Development, Organization', 'Structure, Employee Relations, Comp. & Benefits, Employee Engagement, Time & Attendance and', 'Learning & Development.', '\uf0d8 Manpower Planning & Recruitment:', 'o Manpower planning & budgeting in consultation with department Heads.', 'o Managing the complete recruitment life-cycle right from sourcing the best talent', 'from diverse sources like Consultants, Job Portals, Head Hunting and releasing', 'Internal Job Postings to coordinating for Interviews, conducting HR round of', 'interviews, shortlisting of candidates, salary negotiation & On boarding.', 'o Conducting Reference check of selected candidates, rolling out the offer & On', 'boarding of new joiners.', "o Handled Mass recruitment's like Walk – Ins and Pool Campus Recruitment.", '\uf0d8 Induction, Documentation, Learning & Development & Employee Engagement:', 'o Initiated structured On Boarding Program & induction of new joinees and', 'facilitating them with all the joining documents.', 'o Preparation of Training Calender as per the training needs identified by the team', 'leads and the line managers.', 'o Facilitating fun-at-work activities at the workplace like Quarterly Awards,Birthday', 'celebrations, celebrating various festivals.', '\uf0d8 Performance Management System, Increments & Promotions:', 'o Preparation of Appraisal Policy,', 'in', 'consultation with the management, conduct quarterly reviews along with the team', 'leads and the line managers, promotion announcements and generating applicable', 'reports', 'appraisal', 'formats, preparing KRA’s', 'o Devising Annual Increments Plan, determination of salary ranges for existing roles', 'including incremented salaries and bonus payout decisions. Ensure year-end', 'compensation decisions are in line with the overall', 'talent strategy and reward', 'individual performance.', '\uf0d8 Retention, Exits & Separation:', 'o Conducting various stay interviews and job satisfaction survey’s', 'o Conducting exit interviews and separation formalities', 'o Issuing the relieving and experience documents. And ensure full and final settlement', 'are processed within time line.', '\uf0d8 Organization Structure & HR Policies:', 'o Preparing Organization Structure as per the business plan for the business unit &', 'ensuring Job Descriptions for new and existing positions.', 'o Preparation of process flow & policies for all HR processes & designed HR', 'Manual.', '\uf0d8 HR Analytics & Transactions', 'o Responsible for preparation of various HR Dashboards/MIS, HR Analytic’s & HR', 'status reports that are shared on Weekly, Monthly & Quarterly basis with the Core', 'Leadership Team', 'o Managing various other work like preparation of letter formats, Time & Attendance,', 'Salary advances, Employee grievances etc. on day to day basis.', 'Organization', 'Recharge it Now', 'Designation', 'Trainee Hr', 'Duration', 'March 2014 - September 2014', '\uf06c Sourcing', 'the', 'potential', 'candidates', 'database,professional sites, headhunting, job postings and mass-mail.', 'using', 'job', 'portal(Naukri,Monster),existing', '\uf06c Headhunting & sourcing of candidates by initial screening, and interview process', '\uf06c After selection conduct the complete induction process and the joining formalities', '\uf06c Handling all payroll related issues and keeping track of the attendance sheets.', '\uf06c Doing all the exit formalities like preparing the full and final,NOC,relieving letter, experience', 'certificate and conducting exit interviews.', '\uf06c Organize and successfully execute Employee Engagement activities.', 'Internship:', 'Organization', ': Muthoot Fincorp Pvt Ltd', 'Position', ': HR Intern', 'Period of work : Two months', 'Project Title', ': Best HR practices of NBFC’s', 'ACADEMIC PROJECTS :', '1. Internship Project Report:', 'Project Title: “Best HR Practices of N.B.F.C’s”.', 'Project Synopsis: For the purpose of the project, a survey was conducted through the means of', 'questionnaire, which was served to the management who was involved in the recruitment and the', 'Selection process.', '2. Final Project Report:', 'Project Title : “Impact of Organizational Climate on Employee Satisfaction level in IT industry”.', 'Project Synopsis: This project is a study done on the different factors of Climate which affects the', 'Job Satisfaction level of the Employees like the working environment, the company’s policies,', 'procedures, culture etc on IT industry.', 'ACADEMIC QUALIFICATIONS :', 'PGDBM (2012-2014) from NDIM,New Delhi specialized in Human Resource and Marketing.', 'Bachelor of Arts - English Literature (2007-2011) from St. Pauls’ C. M. College under Calcutta', 'University.', '12th - ISC(2005-2007) from St. James High School,West Bengal.', '10th - ICSE ( 2005) from St. James High School, West Bengal.', 'PERSONAL INFORMATION :', 'Date of Birth :- 12th June 1989', 'Languages Known :- English,Hindi and Bengali', 'Father’s Name :- Ajit Kumar Nandi', 'Hand Phone :- 08826285738', 'Email :- pallavi12gem@yahoo.in', 'Snail Mail :- Tarapara, Assammore,P.O Mohitnagar,Dist :- Jalpaiguri,West Bengal -735101.']
+name: Snail Mail
+email: pallavi12gem@yahoo.in
+mobile: Phone number not provided
+experience: documents
+expertise: lopment of people,
+expertise: lopment, organization
+expertise: lopment.
+expertise: lopment & employee engagement
+expertise: n - english,hindi and bengali
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Fin1.pdf
+Curriculum Vitae
+PurchaseExecutive
+Mailto:vipin296@gmail.com
++91-9416444337
+CAREEROBJECTIVE
+Toenhancemyskillsinaworkrelatedenvironmentandlearnnewthingsthatwillmake
+meabetterprofessional.Usemytalentsbyputtingthem intogooduseforthebenefit
+oftheorganizationthatIworkfor.
+ Excellentanalytical,quicklearningandproblem solvingskillswithadesireto
+workinateam orientedenvironment.
+ Havegoodpresentation,writtenandoralcommunicationskillsandgood
+problem solvingskills,Havegoodteam spirit,goalorientedandhigh
+interpersonalskills.
+PROFESSIONALSUFICOARY
+Employer :Hi-techinfotech,Gurgaon(ChildPartnerofIBM),
+Replacedfrom FutureFocus,Gurgaon(ChildPartnerofIBM).
+Designation :ProcurementExecutive(OracleERP)
+Duration :06Feb,2019toonwards
+RolesandResponsibilities:
+PrepareandprocessPurchaseOrdersforsuppliesandequipmentrelatedtoIT
+consumablesitemsbothrenewals&capital.Creationandsearchingofnewvendersfor
+differenttypeofitemsaswellasarrangingquotationfordifferentITproducts.Take
+careofwholeprocurementprocesstoensuresmoothsupply.
+Employer :VariMileTechnologies,NewDelhi.
+Designation :PurchaseExecutive(SAPMM ERP)
+Duration :01June,2017to05Feb,2019
+RolesandResponsibilities:
+ PrepareandprocessQuotationsandPurchaseOrdersforsuppliesand
+ ReviewInvoicesandRequisitionsforsatisfactorypaymentapproval.
+ Maintaincopiesofvouchers,invoicesorcorrespondencenecessaryforfiles.
+ ClarifyanyquestionablePRitems,pricesorreceivingsignatures.
+ CheckperviousreleasedorunreleasedPR&POandmaintainrelatedrecords.
+ PreparingDailybasisreports.
+Employer :B.S.MedicineAgency
+Designation :ComputerOperator
+Duration :01April,2013to30May,2017.
+RolesandResponsibilities:
+ UploadingRawDataintoSpreadsheetfile.
+ ManagingHardwareandNetworkingatLANLevel.
+ PreparingDailybasisreports.
+ACADEMICQUALIFICATIONS
+SuccessfullycompletedB.Techin(C.S.E.)ComputerScience&Engineeringfrom
+KurukshetraUniversity,Haryana.
+SuccessfullyCompletedPolytechnicDiplomain(I.T.)InformationTechnologyfrom
+StateBoardofTechnicalEducation,Haryana.
+PERSONALDETAILS
+DateofBirth
+Linguisticcapabilities
+English,Hindi,Punjabi,German.
+['Curriculum Vitae', 'VipinKumar', 'PurchaseExecutive', 'Mailto:vipin296@gmail.com', '\uf028+91-9416444337', 'CAREEROBJECTIVE', 'Toenhancemyskillsinaworkrelatedenvironmentandlearnnewthingsthatwillmake', 'meabetterprofessional.Usemytalentsbyputtingthem intogooduseforthebenefit', 'oftheorganizationthatIworkfor.', 'EXPERTIES', '\uf0d8 Excellentanalytical,quicklearningandproblem solvingskillswithadesireto', 'workinateam orientedenvironment.', '\uf0d8 Havegoodpresentation,writtenandoralcommunicationskillsandgood', 'problem solvingskills,Havegoodteam spirit,goalorientedandhigh', 'interpersonalskills.', 'PROFESSIONALSUFICOARY', 'Employer :Hi-techinfotech,Gurgaon(ChildPartnerofIBM),', 'Replacedfrom FutureFocus,Gurgaon(ChildPartnerofIBM).', 'Designation :ProcurementExecutive(OracleERP)', 'Duration :06Feb,2019toonwards', 'RolesandResponsibilities:', 'PrepareandprocessPurchaseOrdersforsuppliesandequipmentrelatedtoIT', 'consumablesitemsbothrenewals&capital.Creationandsearchingofnewvendersfor', 'differenttypeofitemsaswellasarrangingquotationfordifferentITproducts.Take', 'careofwholeprocurementprocesstoensuresmoothsupply.', 'Employer :VariMileTechnologies,NewDelhi.', 'Designation :PurchaseExecutive(SAPMM ERP)', 'Duration :01June,2017to05Feb,2019', 'RolesandResponsibilities:', '\uf0b7 PrepareandprocessQuotationsandPurchaseOrdersforsuppliesand', 'equipment.', '\uf0b7 ReviewInvoicesandRequisitionsforsatisfactorypaymentapproval.', '\uf0b7 Maintaincopiesofvouchers,invoicesorcorrespondencenecessaryforfiles.', '\uf0b7 ClarifyanyquestionablePRitems,pricesorreceivingsignatures.', '\uf0b7 CheckperviousreleasedorunreleasedPR&POandmaintainrelatedrecords.', '\uf0b7 PreparingDailybasisreports.', 'Employer :B.S.MedicineAgency', 'Designation :ComputerOperator', 'Duration :01April,2013to30May,2017.', 'RolesandResponsibilities:', '\uf0b7 UploadingRawDataintoSpreadsheetfile.', '\uf0b7 ManagingHardwareandNetworkingatLANLevel.', '\uf0b7 PreparingDailybasisreports.', 'ACADEMICQUALIFICATIONS', '2009To2012', 'SuccessfullycompletedB.Techin(C.S.E.)ComputerScience&Engineeringfrom', 'KurukshetraUniversity,Haryana.', '2006To2009', 'SuccessfullyCompletedPolytechnicDiplomain(I.T.)InformationTechnologyfrom', 'StateBoardofTechnicalEducation,Haryana.', 'PERSONALDETAILS', 'Gender', 'DateofBirth', 'Linguisticcapabilities', ':', ':', ':', 'Male', '13/09/1990', 'English,Hindi,Punjabi,German.']
+name:  PreparingDailybasisreports
+email: Mailto:vipin296@gmail.com
+mobile: Phone number not provided
+education: ,
+expertise: emytalentsbyputtingthem intogooduseforthebenefit
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Fin3.docx
+Goal oriented professional, Chartered Accountant from ICAI. Focused & Goal Driven with strong work ethics, continuously striving for improvement coupled with commitment to offer quality work. An effective communicator with excellent relationship building & interpersonal skills.
+Currently Handling Key Responsibility
+Maintenance of Books of Accounts in Tally like Sale and Purchase Invoice entry etc.
+Accounting Review on daily/weekly basis.
+Reconciliation of vendor accounts and resolving vendor queries pertaining to their account.
+Reconciliation of GSTR1, GSTR -3B & GSTR2A
+Monthly and annual compliances of GST Returns.
+Preparation & Filling of E -way Bills.
+Preparation of Tax Calculations and deposit of GST, TDS and Advance Tax.
+Assistance in preparation of quarterly and annual financial Statements.
+Managing Online Banking and process vendor payments.
+Practical Experience
+Good Theoretical Knowledge of Goods & Service Tax & Practical Exposure in GST Return & E-way Bill.
+Direct Tax Compliances including preparation and e-filling income tax Returns for various corporates.
+Timely Calculation & Deposit of TDS and TDS Return Filing.
+Provide tax planning assistance to Individual & filed Income tax returns.
+Finalization of Balance Sheet, Profit & Loss Account, Notes to accounts and detailed analysis of various financial parameters like ratio analysis etc.
+Prepared and analyzed financial statements as per Revised Schedule VI Schedule III of Companies Act 1956/2013 and the accounting standards.
+Played a Key Role in various assignments of Statutory audits along Tax audits of Companies.
+Executed detailed audit procedures including reviewing transactions, records, reports, policies and business processes for the purpose of tax audit and statutory audit.
+Currently Working as Senior Account Executive from June 2019 to till with Amrit Dairy Products
+Worked as Paid assistant from January 2016 to December 2016 with SUNIL SURESH & ASSOCIATES , Gurgaon
+Worked as Paid assistant from May 2018 to August 2018 with SUNIL SURESH & ASSOCIATES , Gurgaon
+Worked on Various assignments in individual capacity.
+Worked as Article Assistant with S.TALWAR & CO. for 3 Year
+Qualification
+CA Final qualified with 65% Information Systems Control and Audit, 59% in Strategic Financial management (SFM) & 58% in Financial Reporting.
+Bachelor in Commerce from School of Open Learning ( Delhi University)
+Passed 12th standard with 76.2% marks from CBSE board
+Passed 10th standard with 60% marks from CBSE board
+Well versed with MS Office including Power Point, Excel and Word.
+Working experience of Tally9 & Tally.ERP9 software.
+Personal Details
+I hereby declare that all the information furnished above is true to the best of my knowledge and belief.
+['Resume', 'About me', 'Goal oriented professional, Chartered Accountant from ICAI. Focused & Goal Driven with strong work ethics, continuously striving for improvement coupled with commitment to offer quality work. An effective communicator with excellent relationship building & interpersonal skills.', 'Currently Handling Key Responsibility', 'Maintenance of Books of Accounts in Tally like Sale and Purchase Invoice entry etc.', 'Accounting Review on daily/weekly basis.', 'Reconciliation of vendor accounts and resolving vendor queries pertaining to their account.', 'Reconciliation of GSTR1, GSTR -3B & GSTR2A', 'Monthly and annual compliances of GST Returns.', 'Preparation & Filling of E -way Bills.', 'Preparation of Tax Calculations and deposit of GST, TDS and Advance Tax.', 'Assistance in preparation of quarterly and annual financial Statements.', 'Managing Online Banking and process vendor payments.', 'Practical Experience', 'Good Theoretical Knowledge of Goods & Service Tax & Practical Exposure in GST Return & E-way Bill.', 'Direct Tax Compliances including preparation and e-filling income tax Returns for various corporates.', 'Timely Calculation & Deposit of TDS and TDS Return Filing.', 'Provide tax planning assistance to Individual & filed Income tax returns.', 'Finalization of Balance Sheet, Profit & Loss Account, Notes to accounts and detailed analysis of various financial parameters like ratio analysis etc.', 'Prepared and analyzed financial statements as per Revised Schedule VI Schedule III of Companies Act 1956/2013 and the accounting standards.', 'Played a Key Role in various assignments of Statutory audits along Tax audits of Companies.', 'Executed detailed audit procedures including reviewing transactions, records, reports, policies and business processes for the purpose of tax audit and statutory audit.', '.', 'Employer', 'Currently Working as Senior Account Executive from June 2019 to till with Amrit Dairy Products', 'Worked as Paid assistant from January 2016 to December 2016 with SUNIL SURESH & ASSOCIATES , Gurgaon', 'Worked as Paid assistant from May 2018 to August 2018 with SUNIL SURESH & ASSOCIATES , Gurgaon', 'Worked on Various assignments in individual capacity.', 'Worked as Article Assistant with S.TALWAR & CO. for 3 Year', 'Qualification', 'CA Final qualified with 65% Information Systems Control and Audit, 59% in Strategic Financial management (SFM) & 58% in Financial Reporting.', 'Bachelor in Commerce from School of Open Learning ( Delhi University)', 'Passed 12th standard with 76.2% marks from CBSE board', 'Passed 10th standard with 60% marks from CBSE board', 'IT Skills', 'Well versed with MS Office including Power Point, Excel and Word.', 'Working experience of Tally9 & Tally.ERP9 software.', 'Personal Details', 'I hereby declare that all the information furnished above is true to the best of my knowledge and belief.']
+name: MS Office
+mobile: Phone number not provided
+experience: of
+expertise: ed & goal driven with strong work ethics, continuously striving for improvement coupled with commitment to offer quality work. an effective communicator with excellent relationship building & interpersonal skills.
+expertise: ledge of goods & service tax & practical exposure in gst return & e-way bill.
+expertise: ledge and belief.
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_IT4.pdf
+Shivam Prakash
+sp160194@gmail.com
+Mobile: +91-9772806223
+A total of 4 years of experience as a software developer in telecom and CMS domain.
+Currently working as a Software Developer with Ericsson(R&D), Gurgaon.
+•  Proficient in Core Java, Java8.
+•  Active  involvement  in  all  the  phases  of  SDLC.  Also,  have  been  part  of  Agile
+development using Scrum methodology.
+•  Active  team  player  with  excellent  communication  and  interpersonal  skills,  self
+motivated fast learner and strong analytical and debugging/problem solving skills
+Professional Experience: -
+Designation
+Software Developer
+Ericsson India Global Services Pvt. Ltd.
+Jul’17 - current
+Associate Technology
+Professional Skill Set: -
+Sapient Consulting Pvt. Ltd.
+Aug’15 – Jul’17
+Operating Systems
+Microsoft Windows, Linux
+Programming Languages
+Java 8, Python
+Scripting Language
+HTML, JavaScript, Unix shell scripting, XML
+Middleware Technologies
+Web Services, Design patterns, OSGI
+Application Servers
+Apache Karaf
+Build Tools
+Junit, Git, Gerrit, JIRA
+Eclipse, IntelliJ
+Educational Qualification: -
+Degree/Certificate
+Institute/School
+Computer Science and
+Engineering
+LNM Institute of Information
+Technology, Jaipur
+Class-XII (CBSE)
+Bakshi’s Springdales Sr. Sec.
+School, Kota
+Class-X (CBSE)
+Ekalavya Educational Complex,
+Major Projects: -
+2. RM-INV (Revenue Manager- INVOICING)
+Major Customer  Ericsson Product
+Skills/Tools
+Description
+Aug ‘17 – Current
+JAVA, Linux, OSGI, REST Web services, Design patterns, Eclipse, Apache Karaf,
+Multithreading
+This project is a telecom product of Ericsson. This product deals with generation of
+postpaid  bills  of  telecom  users.  This  product  is  part  of  bigger  umbrella  project
+called Revenue Manager which targets to provide complete digital solution of BSS
+domain. This product took care of aggregating all usages by a user and generating
+an itemized bill for a billing cycle. This product  also took care of notifying other
+nodes/products about bill generation and unbilled amount if any.
+Responsibility
+•    Active  participation
+in  Low  Level  Design,  Coding,  Testing,
+Documentation at various phases.
+•    Bug fixes and regression testing of the sub-system.
+•    Active participation in code review.
+•    Working  on  Agile  Methodology  and  completion  of  user  stories  with  in
+scrum cycle.
+•    Preparation as well as execution of Unit test plans and system integration
+test plans.
+•     Implemented several critical REST services being exposed by our
+module to be by external users as well as internal teams.
+•    Implemented GDPR compliance for RM project which includes masking
+of sensitive data, encryption-decryption of sensitive datas stored in
+1. Unilever Platform (Sapient Consulting Pvt. Ltd.)
+Major Customer  Unilever UK
+Aug’15 – Jul’17
+Skills/Tools
+Description
+JAVA, Adobe AEM, Web services, Design patterns, Eclipse, Maven, CRX, JIRA
+Unilever  Platform  is  a  base  CMS  platform  using  which  different  brands  of
+Unilever prepares and hosts their brand portal. Platform was created using Adobe
+Experience  Manager  as  comprehensive  content  management  solution.  This
+platform  is  created  extensively  using  Adobe  environment  and  other  adobe
+solutions  including  Adobe  Campaign,  Adobe  Campaign  etc.  Several  Unilever
+brands  such  as  Dove,  Lux,  Magnum,  Knorr,  Sunsilk,  Axe  etc.  have  created  their
+websites using this platform.
+Responsibility
+•  Active  participation
+in  Low  Level  Design,  Coding,  Testing,
+Documentation at various phases.
+•  Bug fixes and regression testing of the sub-system.
+•  Active participation in code review.
+•  Preparation  as  well  as  execution  of  Unit  test  plans  and  system
+integration test plans.
+•     Implemented backend logic of several components related to content
+management and E-commerce portals.
+•     Developed RESTful web services for CMS portal.
+•     Worked in Adobe Experience Manager (AEM 6.1) for component
+development and handling other CMS related tasks.
+•  Written  JavaScript  and  CSS  codes  for  development  of  component
+Involved  in  Test  Driven  Development,  Documentation,  refactoring  &
+Unit testing.
+•  Rewarded Core Value Award in Leadership for acting as Point of Contact of my
+team and exhibiting core values of organization. (Sapient Consulting Pvt. Ltd,
+•  Among finalist candidates for Long Term Performance Reward (rewarded after 18
+months of service) for my overall performance in the organization. (Sapient
+Consulting Pvt. Ltd, Feb,17)
+Finalist in Ericsson R&D Departmental Hackathon.  (Ericsson, Aug’ 18)
+Personal Information: -
+Date of Birth
+Father’s Name
+Permanent Address
+Nationality
+Language Known
+Marital Status
+16th Jan 1994
+Mr. Sanjay Kumar
+Varti Vihar Appt, Patel Nagar,
+Patna-800023, Bihar
+Hindi & English
+Place:                                                                                                      Shivam Prakash
+['Shivam Prakash', 'sp160194@gmail.com', 'Mobile: +91-9772806223', 'Summary: -', 'A total of 4 years of experience as a software developer in telecom and CMS domain.', 'Currently working as a Software Developer with Ericsson(R&D), Gurgaon.', '•  Proficient in Core Java, Java8.', '•  Active  involvement  in  all  the  phases  of  SDLC.  Also,  have  been  part  of  Agile', 'development using Scrum methodology.', '•  Active  team  player  with  excellent  communication  and  interpersonal  skills,  self', 'motivated fast learner and strong analytical and debugging/problem solving skills', 'Professional Experience: -', 'Designation', 'Company', 'Duration', 'Software Developer', 'Ericsson India Global Services Pvt. Ltd.', 'Jul’17 - current', 'Associate Technology', 'Professional Skill Set: -', 'Sapient Consulting Pvt. Ltd.', 'Aug’15 – Jul’17', 'Operating Systems', 'Microsoft Windows, Linux', 'Programming Languages', 'Java 8, Python', 'Scripting Language', 'HTML, JavaScript, Unix shell scripting, XML', 'Databases', 'MySQL', 'Middleware Technologies', 'Web Services, Design patterns, OSGI', 'Application Servers', 'Apache Karaf', 'Tools', 'Build Tools', 'IDE', 'Junit, Git, Gerrit, JIRA', 'Maven', 'Eclipse, IntelliJ', 'Educational Qualification: -', 'Year', 'Degree/Certificate', 'Institute/School', 'CGPA / %', '2015', 'B.Tech,', 'Computer Science and', 'Engineering', 'LNM Institute of Information', '7.88/10', 'Technology, Jaipur', '2010', 'Class-XII (CBSE)', 'Bakshi’s Springdales Sr. Sec.', '74.4%', 'School, Kota', '2008', 'Class-X (CBSE)', 'Ekalavya Educational Complex,', '87.6%', 'Patna', 'Major Projects: -', '2. RM-INV (Revenue Manager- INVOICING)', 'Major Customer  Ericsson Product', 'Duration', 'Skills/Tools', 'Team Size', 'Description', 'Aug ‘17 – Current', 'JAVA, Linux, OSGI, REST Web services, Design patterns, Eclipse, Apache Karaf,', 'Multithreading', '6', 'This project is a telecom product of Ericsson. This product deals with generation of', 'postpaid  bills  of  telecom  users.  This  product  is  part  of  bigger  umbrella  project', 'called Revenue Manager which targets to provide complete digital solution of BSS', 'domain. This product took care of aggregating all usages by a user and generating', 'an itemized bill for a billing cycle. This product  also took care of notifying other', 'nodes/products about bill generation and unbilled amount if any.', 'Responsibility', '•    Active  participation', 'in  Low  Level  Design,  Coding,  Testing,', 'Documentation at various phases.', '•    Bug fixes and regression testing of the sub-system.', '•    Active participation in code review.', '•    Working  on  Agile  Methodology  and  completion  of  user  stories  with  in', 'scrum cycle.', '•    Preparation as well as execution of Unit test plans and system integration', 'test plans.', '•     Implemented several critical REST services being exposed by our', 'module to be by external users as well as internal teams.', '•    Implemented GDPR compliance for RM project which includes masking', 'of sensitive data, encryption-decryption of sensitive datas stored in', 'Database.', '1. Unilever Platform (Sapient Consulting Pvt. Ltd.)', 'Major Customer  Unilever UK', 'Duration', 'Aug’15 – Jul’17', 'Skills/Tools', 'Team Size', 'Description', 'JAVA, Adobe AEM, Web services, Design patterns, Eclipse, Maven, CRX, JIRA', '8', 'Unilever  Platform  is  a  base  CMS  platform  using  which  different  brands  of', 'Unilever prepares and hosts their brand portal. Platform was created using Adobe', 'Experience  Manager  as  comprehensive  content  management  solution.  This', 'platform  is  created  extensively  using  Adobe  environment  and  other  adobe', 'solutions  including  Adobe  Campaign,  Adobe  Campaign  etc.  Several  Unilever', 'brands  such  as  Dove,  Lux,  Magnum,  Knorr,  Sunsilk,  Axe  etc.  have  created  their', 'websites using this platform.', 'Responsibility', '•  Active  participation', 'in  Low  Level  Design,  Coding,  Testing,', 'Documentation at various phases.', '•  Bug fixes and regression testing of the sub-system.', '•  Active participation in code review.', '•  Preparation  as  well  as  execution  of  Unit  test  plans  and  system', 'integration test plans.', '•     Implemented backend logic of several components related to content', 'management and E-commerce portals.', '•     Developed RESTful web services for CMS portal.', '•     Worked in Adobe Experience Manager (AEM 6.1) for component', 'development and handling other CMS related tasks.', '•  Written  JavaScript  and  CSS  codes  for  development  of  component', 'level UI.', 'Involved  in  Test  Driven  Development,  Documentation,  refactoring  &', 'Unit testing.', '•', 'Honors: -', '•  Rewarded Core Value Award in Leadership for acting as Point of Contact of my', 'team and exhibiting core values of organization. (Sapient Consulting Pvt. Ltd,', 'Jan,16)', '•  Among finalist candidates for Long Term Performance Reward (rewarded after 18', 'months of service) for my overall performance in the organization. (Sapient', 'Consulting Pvt. Ltd, Feb,17)', 'Finalist in Ericsson R&D Departmental Hackathon.  (Ericsson, Aug’ 18)', '•', 'Personal Information: -', 'Date of Birth', 'Father’s Name', 'Permanent Address', 'Nationality', 'Language Known', 'Marital Status', 'Date:', ':', ':', ':', ':', ':', ':', '16th Jan 1994', 'Mr. Sanjay Kumar', 'Varti Vihar Appt, Patel Nagar,', 'Patna-800023, Bihar', 'Indian', 'Hindi & English', 'Single', 'Place:                                                                                                      Shivam Prakash']
+name: Shivam Prakash
+email: sp160194@gmail.com
+mobile: Phone number not provided
+education: complex
+experience: manager
+expertise: loper in telecom and cms domain.
+expertise: loper with ericsson(r&d), gurgaon.
+expertise: lopment using scrum methodology.
+expertise: loper
+expertise: ers.  this  product  is  part  of  bigger  umbrella  project
+expertise: er and generating
+expertise: er  stories  with  in
+expertise: ers as well as internal teams.
+expertise: loped restful web services for cms portal.
+expertise: lopment and handling other cms related tasks.
+expertise: lopment  of  component
+expertise: lopment,  documentation,  refactoring  &
+expertise: n
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Fin2.pdf
+Curriculum Vitae - Smriti Yadav
+Address: E-39A, Jawahar Park, Behind Hira Sweets, Laxmi Nagar, New Delhi-110092
+Contact No: 8920998890, 7838838681
+Mail: smritiyadav0206@gmail.com
+Career Objective
+Hardworking and analytical accounts personnel coming with strong background in taxation,
+accounting and audit, seeking for a position where I can integrate my background and 4 years of
+experience to help in conduct financial procedures.
+Professional Qualification
+ CA-Final in June 2019: Appeared and
+ CA-IPCC in Year 2015 with 56% marks
+Academic Qualification
+ B.Com from Shridhar University in Year 2013 with 61% marks.
+12th std. from C.B.S.E passed in Year 2009 with 65% marks.
+10th std. from C.B.S.E passed in Year 2007 with 70% marks.
+Organizational Experience
+1. BNPSY & Associates (Noida, U.P):- Working Experience of 1 Year as Account Assistant and
+have worked in various areas as:
+ Accounting for Various Companies and Proprietorship Businesses.
+ Assistant in Statutory, Internal and Tax Audit of various assesses.
+ Making Digital Signature certificate of all types.
+2. Khanna Gulati & Associates (Bhikaji Cama Place, New Delhi):- Working Experience of 2
+years as Account Assistant and have worked in various areas as:
+ Experience in handling Banking Transactions.
+ Filed Service Tax/ (GST) and e-TDS return both salary and non-salary.
+ Filed Statutory Documents with Registrar of companies (MCA).
+ Preparation of Computation of Income and ITR for various kinds of assesses.
+ Team Member in Statutory Audit of assesses from different sectors:
+1) Manufacturing
+3) Tours Operators
+Telecommunication
+ Finalizing Balance Sheet of various companies and partnership firms.
+3. Ajay Mahna & Associates (Punjabi Bagh, New Delhi):- Working Experience of 1 year as Semi
+Independently handled Statutory, Internal and Tax Audit of various assesses.
+Qualified CA and have worked in various areas as:
+ Book keeping and Accounting for Various Companies and Proprietorship Businesses.
+ Filed GST returns monthly and quarterly.
+ Filed Income Tax Return of Various assesses.
+ Prepare Statement of Stock in Trade.
+ GST Audit.
+Computer Skills
+Financial accounting on Various Software (Tally, ERP, SAP)
+ Knowledge of Taxation portal like GST, Income tax and Traces.
+ Knowledge of MS- Excel, Word and PowerPoint.
+ Advance ICITSS Training from ICAI.
+100 hours ITT Training from ICAI.
+Experience of working in various software’s like Genius, SAP.
+Personality Traits
+Hobbies: Panting, Crafting & Dancing
+Qualities: Disciplined, Honest & Smart working.
+ Analytical mind to identify problems and implement effective solution.
+ Flexible by nature.
+ Positive Attitude.
+ Hard working & Self Confident.
+ Capable to work in Team.
+ Self- motivated person
+Personal Profile
+Father’s Name
+Mother’s Name
+Marital Status
+Nationality
+Language Known
+Declaration
+: Smriti Yadav
+: Sh. Shiv Shankar Yadav
+: Smt. Prem Lata Yadav
+: Hindi, English
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the
+responsibility for the correctness of the above-mentioned particulars.
+Date: 15/09/2019
+Place: New Delhi
+(Smriti Yadav)
+['Curriculum Vitae - Smriti Yadav', 'Address: E-39A, Jawahar Park, Behind Hira Sweets, Laxmi Nagar, New Delhi-110092', 'Contact No: 8920998890, 7838838681', 'Mail: smritiyadav0206@gmail.com', 'Career Objective', 'Hardworking and analytical accounts personnel coming with strong background in taxation,', 'accounting and audit, seeking for a position where I can integrate my background and 4 years of', 'experience to help in conduct financial procedures.', 'Professional Qualification', '\uf0a7 CA-Final in June 2019: Appeared and', '\uf0a7 CA-IPCC in Year 2015 with 56% marks', 'Academic Qualification', '\uf0a7 B.Com from Shridhar University in Year 2013 with 61% marks.', '\uf0a7', '\uf0a7', '12th std. from C.B.S.E passed in Year 2009 with 65% marks.', '10th std. from C.B.S.E passed in Year 2007 with 70% marks.', 'Organizational Experience', '1. BNPSY & Associates (Noida, U.P):- Working Experience of 1 Year as Account Assistant and', 'have worked in various areas as:', '\uf0a7 Accounting for Various Companies and Proprietorship Businesses.', '\uf0a7 Assistant in Statutory, Internal and Tax Audit of various assesses.', '\uf0a7 Making Digital Signature certificate of all types.', '2. Khanna Gulati & Associates (Bhikaji Cama Place, New Delhi):- Working Experience of 2', 'years as Account Assistant and have worked in various areas as:', '\uf0a7 Experience in handling Banking Transactions.', '\uf0a7 Filed Service Tax/ (GST) and e-TDS return both salary and non-salary.', '\uf0a7 Filed Statutory Documents with Registrar of companies (MCA).', '\uf0a7 Preparation of Computation of Income and ITR for various kinds of assesses.', '\uf0a7 Team Member in Statutory Audit of assesses from different sectors:', '1) Manufacturing', '2) Trader', '3) Tours Operators', '4)', '5)', 'Insurance', 'Telecommunication', '\uf0a7 Finalizing Balance Sheet of various companies and partnership firms.', '3. Ajay Mahna & Associates (Punjabi Bagh, New Delhi):- Working Experience of 1 year as Semi', 'Independently handled Statutory, Internal and Tax Audit of various assesses.', 'Qualified CA and have worked in various areas as:', '\uf0a7 Book keeping and Accounting for Various Companies and Proprietorship Businesses.', '\uf0a7', '\uf0a7 Filed GST returns monthly and quarterly.', '\uf0a7 Filed Income Tax Return of Various assesses.', '\uf0a7 Prepare Statement of Stock in Trade.', '\uf0a7 GST Audit.', 'Computer Skills', 'Financial accounting on Various Software (Tally, ERP, SAP)', '\uf06c Knowledge of Taxation portal like GST, Income tax and Traces.', '\uf06c', '\uf06c Knowledge of MS- Excel, Word and PowerPoint.', '\uf06c', '\uf06c Advance ICITSS Training from ICAI.', '\uf06c', '100 hours ITT Training from ICAI.', 'Experience of working in various software’s like Genius, SAP.', 'Personality Traits', 'Hobbies: Panting, Crafting & Dancing', 'Qualities: Disciplined, Honest & Smart working.', 'Strengths', '\uf0a7 Analytical mind to identify problems and implement effective solution.', '\uf0a7 Flexible by nature.', '\uf0a7 Positive Attitude.', '\uf0a7 Hard working & Self Confident.', '\uf0a7 Capable to work in Team.', '\uf0a7 Self- motivated person', 'Personal Profile', 'Name', 'Father’s Name', 'Mother’s Name', 'Marital Status', 'Religion', 'Nationality', 'Language Known', 'Declaration', ': Smriti Yadav', ': Sh. Shiv Shankar Yadav', ': Smt. Prem Lata Yadav', ': Single', ': Hinduism', ': Indian', ': Hindi, English', 'I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the', 'responsibility for the correctness of the above-mentioned particulars.', 'Date: 15/09/2019', 'Place: New Delhi', '(Smriti Yadav)']
+name: Smriti Yadav
+email: smritiyadav0206@gmail.com
+mobile: Phone number not provided
+ethnicity: .
+experience: of
+expertise: ledge of taxation portal like gst, income tax and traces.
+expertise: ledge of ms- excel, word and powerpoint.
+expertise: n
+expertise: ledge and i bear the
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Mktng.DOCX
+PRIYA MISHRA
+Address: E-270 B, Sector 22, Noida, India
+E-mail: priya.is.mishra@gmail.com
+Contact No.: 9654004231
+Total working Experience: 6 years
+JOB PROFILE:
+My interest for the job is to understand and help the company in building the brand and business by putting my knowledge, skill and efforts. To Plan the marketing activities as per business requirements and ensure the timely execution of merchandising plans for smooth work flow.
+Coordinate and communicating with various department like designing and research team, logistics and documentation departments.
+Working on deadline – to meet the planning and promises made to buyers /customer.
+Drafting plans to meet the objectives and targets provided in the optimum time and efforts.
+analyzing and executing the plans to meet all the objectives
+Taking good care of the responsibilities and duty towards company, team and individually.
+Area of Expertise:
+Merchandising – smooth in coordination between different departments with better understandings.
+Drafting a plans to meet the short term and long terms objectives
+Good in vendor sourcing
+Participation in developing Range or collection
+Product costing - calculating consumptions, negotiations on the cost and margins
+Have a good understanding of logistic processes involved in shipments domestic and international.
+Assisting in business development.
+TECHNICAL SKILLS:
+Diploma in Footwear Designing and Leather Technology specialized in Merchandising and marketing from FDDI, Noida.
+Certified in designing on Adobe Photoshop7.0 and Coral Draw x14.
+WORK EXPERIENCE
+Company Name: G &D TRADE ZONE PVT LTD Licensee of Disney Footwear in India
+Designation: Merchandiser
+Duration - February 2012 to 15th May 2013.
+To build a collection as per the target customers profile and fashion trends.
+To prepare the assortment plans as per the target and SKU Plans.
+Coordinating with the designers and technically skilled professional to introduce new design to the shoe- line as per brand requirement and promotion strategy
+Closely review product Quality as per the Disney Guidelines.
+To develop and follow up with the Key Accounts, Distributors and Online Channel Partners throughout India – Northex, walmart, Future Group, Snap Deal, Landmark Group, Regal Shoes, Metro shoes etc.
+Reviewing the product with the Marketing and Sales team.
+Overall responsible for all the brands designing and merchandising like Mickey, Minnie, Donald Duck, Winnie The Pooh Family, All the 8 Princess (Cinderella, Snow White, Belle, Aurora, Rapunzel, Ariel, Tiana, Jasmine) and Pixar Cars.
+Made the Brand movie on G&D – Describing History to present journey of the company.
+Designed Disney banners and templates for the online channel partners( Jabong, Baby oye, Flipkart & Myntra)
+Company Name: Fashion House Pvt. Ltd.
+Designation: Senior Merchandiser
+Duration: 20th, May 2013 to 1st, August, 2016
+Product Development:
+Handled direct buyer – McQ and through buying agency like – Belair Fashion, American Vintage, Izac, Leon & Harper, Bash, Sud Express, devernois, UJA, Carnet de Vol, Cop Copine. Mainly French buyers.
+Sourcing materials and trims required in production.
+Sourcing new vendors, securing samples and communicating between the export house and suppliers.
+To understand buyers requirement and meeting them till the production order.
+Developing samples and presentation portfolios as per buyers prospective.
+Assist clients with product development.
+Good knowledge of French buyer and there taste.
+Good knowledge of costing and T&A.
+Production Coordinator:
+Coordinating at every stage of the manufacturing and production processes.
+Developing production and shipment schedules and milestones.
+Coordinate meetings among department supervisors, designers and sales teams to monitor the progress and completion dates of shipment.
+Analyze past buying trends, sales records, pricing and merchandise quality to determine value and yield.
+Company Name: Tech Creations Pvt. Ltd. A technical branch of B.P.S Overseas Pvt.Ltd.
+Designation: Senior Merchandiser
+Duration: 22th, August, 2016 to 31st, December 2016
+Handling direct buyer
+Research on the buyer’s taste and styling.
+To acknowledge and communicate the information to buyer.
+Understanding the buyers tech packs and develop the collection and samples with all the details followed.
+Work on quotations; negotiate suppliers for best prices for developments.
+Work on testing and quality check.
+Documentation, invoices development, payment collections, Gsp/ courier booking.
+Developing BOMs and ordering the trims and accessories / leather for bulk.
+Meeting the deadline for samples / SMS/ production.
+Chasing buyer s for all payments and orders.
+Providing new developments of leather, styles, techniques, to feed the buyer with the new trending and trading fashion.
+Company Name: Cheviot International LTD.
+Designation: SENIOR Merchandiser
+Duration: 2nd, January, 2017 to till now
+Job Profile:
+Handling individual buyer and through Buying agencies. Max & Moi, Gerard Darel, Bonpoint, Bonton, Duros, Marccain, Portobellos, Olivery, Rococo,Vakko (Neiman Marcus) Zadig & Voltaire. Majorly France and Greece
+Smooth coordination with all the departments to develop samples.
+To chase buyers for approvals and comments.
+To arrange leather trims and accessories from proto till production.
+Following up with quality checkers and inspection agencies for production approvals
+To plan the sampling floor
+Email write ups to fetch the new and existing buyers
+Follow up with leather suppliers and other accessories outsourcing.
+Continuously in coordination with Designer for new developments.
+Production TNA development – procuring all the supplies for production.
+TRAINING EXPERIENCE
+M&B SHOES (LEE COOPER):
+Different types of market study and consumer behavior under different types of market condition and then deriving effective strategies.
+Product development: As per the market demand, taste & preference and price sensitive product keeping in the different stages and buying power of the market.
+To give the complete presentation to the buyer on the various product range.
+SUPER TANNERY KANPUR:
+Good knowledge of leather identification and conducted each step involved in leather tanning.
+Designed, developed and did sampling fashion footwear using own skills like cutting, closing, lasting, finishing, Quality check and Packing.
+REASERCH PROJECT: Conducted a research on:-
+PANTALOONS (FUTURE GROUP LTD.)on the various aspect like – Window Display Strategies, pricing, promotion, placement of product, Brands strategies, Discounting
+LAKHANI GROUP: Production planning :-
+To make all preparations to manufacture goods within specified time & cost.
+To make available supply of materials, parts & components at the right time.
+To ensure most economical use of plant & equipment by scheduling best machine utilization.
+To provide information for production management & distribution of goods.
+To issue relevant orders to production personals to implement the production plan.
+To make available materials, machines, tools, equipment & manpower in the required quality & quantity & at the specified time.
+To ensure production of goods in the required quantities of the specified quality at the pre-determined time.
+To keep the plant free from production bottleneck.
+To maintain spare capacity to deal with rush orders.
+To maintain cordial industrial relations.
+E- COMMERCE RETAILING
+Research on online market.
+Target customer – age, gender, income, geography,
+Consumer behavior
+Technologies involved in ecommerce.
+Promotional strategies
+Surveys and polling involved
+FASHION FORCASTE: Consisted Trend analysis and silhouette Study:
+Trend Chaser
+Strategic window
+Past trends and future combination
+Colors- Shades and Tints, Neon and Pastels
+ACADEMIC QUALIFICATIONS
+ACHIVEMENTS:
+Awarded with best employee of the quarter June – August 12.
+Represented G&D Trade Zone in Walmart Vendor Fair,
+Participated in World Children Expo on behalf of G&D Trade Zone.
+Achieved 1st prize in Accessories designing held by JK TYRES in college.
+Participated in Riva Del Garda fair to represent FDDI.
+Active Organizer of cultural community.
+Participated in many Hindi and English debates, speeches.
+Won 1st prize in economics exhibition.
+PERSONAL DETAILS:
+Date of Birth: 29, January, 1990
+Status: Unmarried
+Language Known: Hindi, English
+Hobbies: Listening Music, net Surfing, sports- swimming,
+['PRIYA MISHRA', 'Address: E-270 B, Sector 22, Noida, India', 'E-mail: priya.is.mishra@gmail.com', 'Contact No.: 9654004231', 'Total working Experience: 6 years', 'JOB PROFILE:', 'My interest for the job is to understand and help the company in building the brand and business by putting my knowledge, skill and efforts. To Plan the marketing activities as per business requirements and ensure the timely execution of merchandising plans for smooth work flow.', 'Coordinate and communicating with various department like designing and research team, logistics and documentation departments.', 'Working on deadline – to meet the planning and promises made to buyers /customer.', 'Drafting plans to meet the objectives and targets provided in the optimum time and efforts.', 'analyzing and executing the plans to meet all the objectives', 'Taking good care of the responsibilities and duty towards company, team and individually.', 'Area of Expertise:', 'Merchandising – smooth in coordination between different departments with better understandings.', 'Drafting a plans to meet the short term and long terms objectives', 'Good in vendor sourcing', 'Participation in developing Range or collection', 'Product costing - calculating consumptions, negotiations on the cost and margins', 'Have a good understanding of logistic processes involved in shipments domestic and international.', 'Assisting in business development.', 'TECHNICAL SKILLS:', 'Diploma in Footwear Designing and Leather Technology specialized in Merchandising and marketing from FDDI, Noida.', 'Certified in designing on Adobe Photoshop7.0 and Coral Draw x14.', 'WORK EXPERIENCE', 'Company Name: G &D TRADE ZONE PVT LTD Licensee of Disney Footwear in India', 'Designation: Merchandiser', 'Duration - February 2012 to 15th May 2013.', 'KEY ROLE:', 'To build a collection as per the target customers profile and fashion trends.', 'To prepare the assortment plans as per the target and SKU Plans.', 'Coordinating with the designers and technically skilled professional to introduce new design to the shoe- line as per brand requirement and promotion strategy', 'Closely review product Quality as per the Disney Guidelines.', 'To develop and follow up with the Key Accounts, Distributors and Online Channel Partners throughout India – Northex, walmart, Future Group, Snap Deal, Landmark Group, Regal Shoes, Metro shoes etc.', 'Reviewing the product with the Marketing and Sales team.', 'Overall responsible for all the brands designing and merchandising like Mickey, Minnie, Donald Duck, Winnie The Pooh Family, All the 8 Princess (Cinderella, Snow White, Belle, Aurora, Rapunzel, Ariel, Tiana, Jasmine) and Pixar Cars.', 'Made the Brand movie on G&D – Describing History to present journey of the company.', 'Designed Disney banners and templates for the online channel partners( Jabong, Baby oye, Flipkart & Myntra)', 'Company Name: Fashion House Pvt. Ltd.', 'Designation: Senior Merchandiser', 'Duration: 20th, May 2013 to 1st, August, 2016', 'KEY ROLE:', 'Product Development:', 'Handled direct buyer – McQ and through buying agency like – Belair Fashion, American Vintage, Izac, Leon & Harper, Bash, Sud Express, devernois, UJA, Carnet de Vol, Cop Copine. Mainly French buyers.', 'Sourcing materials and trims required in production.', 'Sourcing new vendors, securing samples and communicating between the export house and suppliers.', 'To understand buyers requirement and meeting them till the production order.', 'Developing samples and presentation portfolios as per buyers prospective.', 'Assist clients with product development.', 'Good knowledge of French buyer and there taste.', 'Good knowledge of costing and T&A.', 'Production Coordinator:', 'Coordinating at every stage of the manufacturing and production processes.', 'Developing production and shipment schedules and milestones.', 'Coordinate meetings among department supervisors, designers and sales teams to monitor the progress and completion dates of shipment.', 'Analyze past buying trends, sales records, pricing and merchandise quality to determine value and yield.', 'Company Name: Tech Creations Pvt. Ltd. A technical branch of B.P.S Overseas Pvt.Ltd.', 'Designation: Senior Merchandiser', 'Duration: 22th, August, 2016 to 31st, December 2016', 'KEY ROLE:', 'Handling direct buyer', 'Research on the buyer’s taste and styling.', 'To acknowledge and communicate the information to buyer.', 'Understanding the buyers tech packs and develop the collection and samples with all the details followed.', 'Work on quotations; negotiate suppliers for best prices for developments.', 'Work on testing and quality check.', 'Documentation, invoices development, payment collections, Gsp/ courier booking.', 'Developing BOMs and ordering the trims and accessories / leather for bulk.', 'Meeting the deadline for samples / SMS/ production.', 'Chasing buyer s for all payments and orders.', 'Providing new developments of leather, styles, techniques, to feed the buyer with the new trending and trading fashion.', 'Company Name: Cheviot International LTD.', 'Designation: SENIOR Merchandiser', 'Duration: 2nd, January, 2017 to till now', 'Job Profile:', 'Handling individual buyer and through Buying agencies. Max & Moi, Gerard Darel, Bonpoint, Bonton, Duros, Marccain, Portobellos, Olivery, Rococo,Vakko (Neiman Marcus) Zadig & Voltaire. Majorly France and Greece', 'Smooth coordination with all the departments to develop samples.', 'To chase buyers for approvals and comments.', 'To arrange leather trims and accessories from proto till production.', 'Following up with quality checkers and inspection agencies for production approvals', 'To plan the sampling floor', 'Email write ups to fetch the new and existing buyers', 'Follow up with leather suppliers and other accessories outsourcing.', 'Continuously in coordination with Designer for new developments.', 'Production TNA development – procuring all the supplies for production.', 'TRAINING EXPERIENCE', 'M&B SHOES (LEE COOPER):', 'Different types of market study and consumer behavior under different types of market condition and then deriving effective strategies.', 'Product development: As per the market demand, taste & preference and price sensitive product keeping in the different stages and buying power of the market.', 'To give the complete presentation to the buyer on the various product range.', 'SUPER TANNERY KANPUR:', 'Good knowledge of leather identification and conducted each step involved in leather tanning.', 'Designed, developed and did sampling fashion footwear using own skills like cutting, closing, lasting, finishing, Quality check and Packing.', 'REASERCH PROJECT: Conducted a research on:-', 'PANTALOONS (FUTURE GROUP LTD.)on the various aspect like – Window Display Strategies, pricing, promotion, placement of product, Brands strategies, Discounting', 'LAKHANI GROUP: Production planning :-', 'To make all preparations to manufacture goods within specified time & cost.', 'To make available supply of materials, parts & components at the right time.', 'To ensure most economical use of plant & equipment by scheduling best machine utilization.', 'To provide information for production management & distribution of goods.', 'To issue relevant orders to production personals to implement the production plan.', 'To make available materials, machines, tools, equipment & manpower in the required quality & quantity & at the specified time.', 'To ensure production of goods in the required quantities of the specified quality at the pre-determined time.', 'To keep the plant free from production bottleneck.', 'To maintain spare capacity to deal with rush orders.', 'To maintain cordial industrial relations.', 'E- COMMERCE RETAILING', 'Research on online market.', 'Target customer – age, gender, income, geography,', 'Consumer behavior', 'Technologies involved in ecommerce.', 'Promotional strategies', 'Surveys and polling involved', 'FASHION FORCASTE: Consisted Trend analysis and silhouette Study:', 'Trend Chaser', 'Strategic window', 'Past trends and future combination', 'Colors- Shades and Tints, Neon and Pastels', 'ACADEMIC QUALIFICATIONS', 'ACHIVEMENTS:', 'Awarded with best employee of the quarter June – August 12.', 'Represented G&D Trade Zone in Walmart Vendor Fair,', 'Participated in World Children Expo on behalf of G&D Trade Zone.', 'Achieved 1st prize in Accessories designing held by JK TYRES in college.', 'Participated in Riva Del Garda fair to represent FDDI.', 'Active Organizer of cultural community.', 'Participated in many Hindi and English debates, speeches.', 'Won 1st prize in economics exhibition.', 'PERSONAL DETAILS:', 'Date of Birth: 29, January, 1990', 'Status: Unmarried', 'Language Known: Hindi, English', 'Hobbies: Listening Music, net Surfing, sports- swimming,']
+name: Won 1st
+email: priya.is.mishra@gmail.com
+mobile: Phone number not provided
+experience: 6
+objective: and
+expertise: ledge, skill and efforts. to plan the marketing activities as per business requirements and ensure the timely execution of merchandising plans for smooth work flow.
+expertise: rstandings.
+expertise: loping range or collection
+expertise: rstanding of logistic processes involved in shipments domestic and international.
+expertise: lopment.
+expertise: lop and follow up with the key accounts, distributors and online channel partners throughout india – northex, walmart, future group, snap deal, landmark group, regal shoes, metro shoes etc.
+expertise: e pvt. ltd.
+expertise: lopment
+expertise: e and suppliers.
+expertise: rstand buyers requirement and meeting them till the production order.
+expertise: loping samples and presentation portfolios as per buyers prospective.
+expertise: lopment.
+expertise: ledge of french buyer and there taste.
+expertise: ledge of costing and t&a.
+expertise: loping production and shipment schedules and milestones.
+expertise: ledge and communicate the information to buyer.
+expertise: rstanding the buyers tech packs and develop the collection and samples with all the details followed.
+expertise: lopments.
+expertise: lopment, payment collections, gsp/ courier booking.
+expertise: loping boms and ordering the trims and accessories / leather for bulk.
+expertise: lopments of leather, styles, techniques, to feed the buyer with the new trending and trading fashion.
+expertise: lop samples.
+expertise: lopments.
+expertise: lopment – procuring all the supplies for production.
+expertise: lopment as per the market demand, taste & preference and price sensitive product keeping in the different stages and buying power of the market.
+expertise: ledge of leather identification and conducted each step involved in leather tanning.
+expertise: loped and did sampling fashion footwear using own skills like cutting, closing, lasting, finishing, quality check and packing.
+expertise: e of plant & equipment by scheduling best machine utilization.
+expertise: n hindi, english
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_IT3.pdf
+Akansha Agarwal
+Software Engineer
+To work with maximum potential in challenging and dynamic environment, with an
+opportunity of working with diverse group of people and enhancing my professional
+skills with learning and experience for career growth.
++91-8957768866
+akankshagrg.93@gmail.com
+D-47, Sector 61 Noida
+Profile Summary
+A forward-focused professional with 2 years of
+experience in Software Design and Development
+encompassing client/server applications in
+Java/J2EE technologies.
+Experienced in creating Functional Requirement
+Documents, designing,  development, presenting
+final functionality to clients and developing
+accelerator for the demonstration and so on.
+Merit in managing the task in Time Crunch, and
+delivering the solution to the client as First Time
+Strong communication, interpersonal skills with
+the ability to grasp new concepts quickly and
+utilize it in a productive manner
+Analytics Tools : MS-Excel
+IDE : Jdeveloper 10g,  11g, 12c
+Application Server : Weblogic 11g, 12c
+Version Control: Apache Tomcat
+Database Tools: MySQL
+Framework: Struts
+Backend Programming : JDBC,Hibernate
+APJ Abdul Kalam Technical University BBDNITM, Lucknow
+Bachelor of Technology (2013-2017)
+Graduated in Information & Technology with 72.96%
+Navayug Radiance Senior Secondary School , Lucknow
+Senior Secondary (2011-2012)
+Cleared with 67.2%
+Navayug Radiance Senior Secondary School , Lucknow
+Secondary (2009-2010)
+Cleared with 83.6%
+Core Competencies
+Retail Lending
+JDBC, JSP , Servlets
+HTML , CSS, Javascript
+Client Management
+Cerifications
+Certified J2SE and J2EE from NSBT (Nucleus
+School of Banking & Technology) Professional,
+(2017-2018)
+Certified J2SE course from Trainedge
+Consulting Pvt Ltd. Sponsored by Microsoft.
+Soft Skills
+Communicator
+Collaborator
+Team Player
+Work Experience
+Nucleus Software Exports Limted
+Software Engineer (September 2017-Present)
+Key Results Areas:
+Developed the code as per requirements,which include developing different screens with
+database integration.
+Finding the resolution of the bugs and errors reported by the testers.
+Provided support for technical and non-technical issues.
+Involved in deployment of many projects on Weblogic Application Server.
+Unit and Integration testing of owned used case.
+Projects Undertaken
+Project 1#:  FinnOne LMS (May 2019 - till Present)
+Project Details:  FinnOne LMS ,manages the lifecycle of the loan taken by any customer from the
+banking financials and keep the track of the repayment schedule.
+Responsibilities:
+Developed the Code as per the requirements, which include developing different screens with
+database integration.
+Provided  support for technical non-technical  issues.
+Prepared rectification patches of the cases reported by the clients.
+Environment:  Java, JSP, Servlets, MySQL,Struts.
+Tools Used: Jdeveloper 12c , Weblogic 11g , 12c , Orcale 1og.
+Project 2 #:  FinnOne CAS (May 2019 - till Present)
+Project Details:  FinnOne CAS, is the Customer Acquisition System which is used to punch the new
+loans as requested by customers.
+Responsibilities:
+Developed the code on multiple enhancements as per the clients requirement which including
+different screen with database integration.
+Environment: Java, JSP, Servlets, MySQL,Struts.
+Tools Used: Jdeveloper 12c , Weblogic 11g , 12c , Orcale 1og.
+Project 3 #:  FinnOne Collections(September 2017 - April 2019)
+Project Details: FinnOne Core Collections,used to keep track records of delinquent cases which are
+not paying to the banking financials.
+Responsibilities:
+Developed the  code as per the requirements, which include developing different screens with
+database  integration.
+One month On-site experience in HDFC for technical support.
+Personal Detail
+Environment:  Java, JSP, Servlets, MySQL
+Tools Used: Jdeveloper 10g, 11g, Weblogic 11g , 12c, Oracle 10g
+Date of Birth : 24-August-1993
+Address: 8, Indrani Nagar , Bhagwan Bhawan ,Lucknow
+Languages known: English , Hindi
+Interest: Playing Badminton, Cooking
+['Akansha Agarwal', 'Software Engineer', 'To work with maximum potential in challenging and dynamic environment, with an', 'opportunity of working with diverse group of people and enhancing my professional', 'skills with learning and experience for career growth.', '+91-8957768866', 'akankshagrg.93@gmail.com', 'D-47,\xa0Sector 61 Noida', 'Profile Summary', 'A forward-focused professional with 2 years of', 'experience in Software Design and Development', 'encompassing client/server applications in', 'Java/J2EE technologies.', 'Experienced in creating Functional Requirement', 'Documents, designing,  development, presenting', 'final functionality to clients and developing', 'accelerator for the demonstration and so on.', 'Merit in managing the task in Time Crunch, and', 'delivering the solution to the client as First Time', 'Right.', 'Strong communication, interpersonal skills with', 'the ability to grasp new concepts quickly and', 'utilize it in a productive manner', 'IT Skills', 'Analytics Tools : MS-Excel', 'IDE : Jdeveloper 10g,\xa0 11g, 12c', 'Application Server : Weblogic 11g, 12c', 'Version Control: Apache Tomcat', 'Database Tools: MySQL', 'Framework: Struts', 'Backend Programming : JDBC,Hibernate', 'Education', 'APJ Abdul Kalam Technical University BBDNITM, Lucknow', 'Bachelor of Technology (2013-2017)', 'Graduated in Information & Technology with 72.96%', 'Navayug Radiance Senior Secondary School , Lucknow', 'Senior Secondary (2011-2012)', 'Cleared with 67.2%', 'Navayug Radiance Senior Secondary School , Lucknow', 'Secondary (2009-2010)', 'Cleared with 83.6%', 'Core Competencies', 'Core Java', 'My SQL', 'Retail Lending', 'JDBC, JSP , Servlets', 'HTML , CSS, Javascript', 'Client Management', '0', '20', '40', '60', 'Cerifications', 'Certified J2SE and J2EE from NSBT (Nucleus', 'School of Banking & Technology) Professional,', '(2017-2018)', 'Certified J2SE course from Trainedge', 'Consulting Pvt Ltd. Sponsored by Microsoft.', 'Soft Skills', 'Communicator', 'Innovator', 'Thinker', 'Collaborator', 'Intuitive', 'Team Player', 'Work Experience', 'Nucleus Software Exports Limted', 'Software Engineer (September 2017-Present)', 'Key Results Areas:', 'Nucleus', 'Software', 'Developed the code as per requirements,which include developing different screens with', 'database integration.', 'Finding the resolution of the bugs and errors reported by the testers.', 'Provided support for technical and non-technical issues.', 'Involved in deployment of many projects on Weblogic Application Server.', 'Unit and Integration testing of owned used case.', 'Projects Undertaken', 'Project 1#:  FinnOne LMS (May 2019 - till Present)', 'Project Details:  FinnOne LMS ,manages the lifecycle of the loan taken by any customer from the', 'banking financials and keep the track of the repayment schedule.', 'Responsibilities:', 'Developed the Code as per the requirements, which include developing different screens with', 'database integration.', 'Provided  support for technical non-technical\xa0 issues.', 'Prepared rectification patches of the cases reported by the clients.', 'Environment:\xa0 Java, JSP, Servlets, MySQL,Struts.', 'Tools Used: Jdeveloper 12c , Weblogic 11g , 12c , Orcale 1og.', 'Project 2 #:  FinnOne CAS (May 2019 - till Present)', 'Project Details:  FinnOne CAS, is the Customer Acquisition System which is used to punch the new', 'loans as requested by customers.', 'Responsibilities:', 'Developed the code on multiple enhancements as per the clients requirement which including', 'different screen with database integration.', 'Environment: Java, JSP, Servlets, MySQL,Struts.', 'Tools Used: Jdeveloper 12c , Weblogic 11g , 12c , Orcale 1og.', 'Project 3 #:  FinnOne Collections(September 2017 - April 2019)', 'Project Details: FinnOne Core Collections,used to keep track records of delinquent cases which are', 'not paying to the banking financials.', 'Responsibilities:', 'Developed the  code as per the requirements, which include developing different screens with', 'database  integration.', 'One month On-site experience in HDFC for technical support.', 'Personal\xa0Detail', 'Environment:\xa0 Java, JSP, Servlets, MySQL', 'Tools Used: Jdeveloper 10g, 11g, Weblogic 11g , 12c, Oracle 10g', 'Date of Birth : 24-August-1993', 'Address: 8, Indrani Nagar , Bhagwan Bhawan ,Lucknow', 'Languages known: English , Hindi', 'Interest: Playing Badminton, Cooking']
+name: Indrani Nagar
+email: akankshagrg.93@gmail.com
+mobile: Phone number not provided
+experience: in
+expertise: ed professional with 2 years of
+expertise: lopment
+expertise: lopment, presenting
+expertise: loping
+expertise: loper 10g,  11g, 12c
+expertise: loped the code as per requirements,which include developing different screens with
+expertise: ed case.
+expertise: loped the code as per the requirements, which include developing different screens with
+expertise: ed jdeveloper 12c , weblogic 11g , 12c , orcale 1og.
+expertise: ed to punch the new
+expertise: loped the code on multiple enhancements as per the clients requirement which including
+expertise: ed jdeveloper 12c , weblogic 11g , 12c , orcale 1og.
+expertise: ed to keep track records of delinquent cases which are
+expertise: loped the  code as per the requirements, which include developing different screens with
+expertise: ed jdeveloper 10g, 11g, weblogic 11g , 12c, oracle 10g
+expertise: n english , hindi
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_IT2.pdf
+CURRICULUM VITAE
+Vivek Singh
+Contact no- +91-8285087021, 8077183212
+Email Id. - viveksingh.nd98@gmail.com
+Residential Address:- D-222, first floor, Shahpur Jat,
+Near Hauz Khas, New Delhi – 110049
+Career Objective:-
+Targeting a competitive environment where I can able to maximize my skills, knowledge & experience and find the
+optimum value of my hard work and potential.
+Academic Qualification:-
+  Passed Secondary School (X) in 2014 from UP Board.
+  Passed Senior Secondary School (XII) in 2016 from UP Board.
+  Completed BCA in 2019 from Subharti University (Distance Education).
+Technical Qualification:-
+  Advance Diploma in Software Engineering & Web Development from Alpha I.T. & Management College
+  Programming Certificate of COURSE ON COMPUTER CONCEPT (CCC) {Certified By National Institute
+of Electronics & Information Technology}.
+Professional Experience:-
+  Company -: SSP PACKAGING INDUSTRIES PVT. LTD. (Manufacturer of Filling & Packaging Machines)
+Duration-: Sept. 2018 to Till Date
+Designation-: Backend cum Store Executive (Stock, Inventory, Item Master & Purchasing)
+Work Responsibilities -:
+  Operating ERP & Maintain all the data of material available in Factory.
+  Maintain FIFO, LIFO, Stock levels and make key decisions about stock control.
+  Maintain Minimum, Maximum & Reorder level of materials based on material’s Consumption.
+  Maintain inventory by implementing purchasing plans and staying in contact with purchaser and vendors.
+  Raised Indent & Generate Purchase Order of required materials.
+  Update of purchase details & other report formats as per requirement of higher management.
+  Material issue to production in time and personally looking in to issues if any.
+  Responsible to handle total store assignments.
+Key Skills:-
+  Knowledge of  ERP,
+  Stock Management,
+  Data Management,
+  Team Handling.
+Inventory Management,
+  Listening Music.
+  Reading Newspapers.
+  Travelling New Destinations.
+Personal Profile:-
+Father’s Name
+Date  of Birth
+Language Known
+Permanent Address
+Nationality
+Declaration:-
+Mr. Arvind  Singh
+Hindi, English
+Village- Chainpura, Post. - Bahuar, Dist.-Mirzapur (Varanasi) U.P. - 231302
+I hereby declare that the information furnished above is true to the best of my knowledge.
+Date:-……../ ......... 2019
+Place: New Delhi.
+(VIVEK SINGH)
+['CURRICULUM VITAE', 'Vivek Singh', 'Contact no- +91-8285087021, 8077183212', 'Email Id. - viveksingh.nd98@gmail.com', 'Residential Address:- D-222, first floor, Shahpur Jat,', 'Near Hauz Khas, New Delhi – 110049', 'Career Objective:-', 'Targeting a competitive environment where I can able to maximize my skills, knowledge & experience and find the', 'optimum value of my hard work and potential.', 'Academic Qualification:-', '\uf0d8  Passed Secondary School (X) in 2014 from UP Board.', '\uf0d8  Passed Senior Secondary School (XII) in 2016 from UP Board.', '\uf0d8  Completed BCA in 2019 from Subharti University (Distance Education).', 'Technical Qualification:-', '\uf0d8  Advance Diploma in Software Engineering & Web Development from Alpha I.T. & Management College', '\uf0d8  Programming Certificate of COURSE ON COMPUTER CONCEPT (CCC) {Certified By National Institute', 'of Electronics & Information Technology}.', 'Professional Experience:-', '\uf0b7  Company -: SSP PACKAGING INDUSTRIES PVT. LTD. (Manufacturer of Filling & Packaging Machines)', 'Duration-: Sept. 2018 to Till Date', 'Designation-: Backend cum Store Executive (Stock, Inventory, Item Master & Purchasing)', 'Work Responsibilities -:', '\uf0d8  Operating ERP & Maintain all the data of material available in Factory.', '\uf0d8  Maintain FIFO, LIFO, Stock levels and make key decisions about stock control.', '\uf0d8  Maintain Minimum, Maximum & Reorder level of materials based on material’s Consumption.', '\uf0d8  Maintain inventory by implementing purchasing plans and staying in contact with purchaser and vendors.', '\uf0d8  Raised Indent & Generate Purchase Order of required materials.', '\uf0d8  Update of purchase details & other report formats as per requirement of higher management.', '\uf0d8  Material issue to production in time and personally looking in to issues if any.', '\uf0d8  Responsible to handle total store assignments.', 'Key Skills:-', '\uf0d8  Knowledge of  ERP,', '\uf0d8  Stock Management,', '\uf0d8', '\uf0d8  Data Management,', '\uf0d8  Team Handling.', 'Inventory Management,', 'Hobbies:-', '\uf0d8  Listening Music.', '\uf0d8  Reading Newspapers.', '\uf0d8  Travelling New Destinations.', 'Personal Profile:-', 'Father’s Name', 'Date  of Birth', 'Sex', 'Language Known', 'Permanent Address', 'Nationality', ':', ':', ':', ':', ':', ':', 'Declaration:-', 'Mr. Arvind  Singh', 'th', '29', 'April 1999', 'Male', 'Hindi, English', 'Village- Chainpura, Post. - Bahuar, Dist.-Mirzapur (Varanasi) U.P. - 231302', 'Indian', 'I hereby declare that the information furnished above is true to the best of my knowledge.', 'Date:-……../ ......... 2019', 'Place: New Delhi.', '(VIVEK SINGH)']
+name: VIVEK SINGH
+email: viveksingh.nd98@gmail.com
+mobile: Phone number not provided
+education: )
+experience: -
+objective: -
+expertise: ledge & experience and find the
+expertise: lopment from alpha i.t. & management college
+expertise: ster & purchasing)
+expertise: ledge of  erp,
+expertise: n
+expertise: ledge.
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Sales1.docx
+Phone: +919654975191
+Email: jvikas671@gmail.com
+CAREER OBJECTIVE:
+I want to work in an organization where there are stability and growth for the long term career, hence also utilize my interpersonal skills, soft skills, and technical skills to enhance the revenue and profit for the organization.
+Certified in International Business Law (IBL), a workshop conducted by Jur. Dr. Susan-Gale Wintermuth (Professor at Universities and Institutions of repute in China, Latvia, Germany, Mongolia, Turkey
+and USA in the field of International Business Law)
+Achieved 2nd Position at “National Debate”, in “CARPEDIEM”, held at IIM - Kolkata
+Gold medalist in “Carom” competition held at Faculty of Management Studies(FMS)
+The winner in “Face Painting” competition Held at NDIM
+The winner in sports ‘Cricket’ in the event ‘Alumni Premier League’, organized by NDIM
+Played for Kanpur Cricket Association, affiliated to UPCA
+Worked as CRC member of placement team, NDIM. Did official visit to Mumbai
+Worked as Yoga trainer at NDIM in SMART INDIA HACKATHON event organized by HRD Ministry, 2017
+Anchored in the farewell party at NDIM in 2017
+Attended ‘debate’ program at NDTV show at Archana Complex, Greater Kailash 1, New Delhi
+Corporate Mentoring with Aeris Communication India Private Limited at Noida, U.P
+['Vikas Jain', 'Phone: +919654975191', 'Email: jvikas671@gmail.com', 'CAREER OBJECTIVE:', 'I want to work in an organization where there are stability and growth for the long term career, hence also utilize my interpersonal skills, soft skills, and technical skills to enhance the revenue and profit for the organization.', 'Certified in International Business Law (IBL), a workshop conducted by Jur. Dr. Susan-Gale Wintermuth (Professor at Universities and Institutions of repute in China, Latvia, Germany, Mongolia, Turkey', 'and USA in the field of International Business Law)', 'Achieved 2nd Position at “National Debate”, in “CARPEDIEM”, held at IIM - Kolkata', 'Gold medalist in “Carom” competition held at Faculty of Management Studies(FMS)', 'The winner in “Face Painting” competition Held at NDIM', 'The winner in sports ‘Cricket’ in the event ‘Alumni Premier League’, organized by NDIM', 'Played for Kanpur Cricket Association, affiliated to UPCA', 'Worked as CRC member of placement team, NDIM. Did official visit to Mumbai', 'Worked as Yoga trainer at NDIM in SMART INDIA HACKATHON event organized by HRD Ministry, 2017', 'Anchored in the farewell party at NDIM in 2017', 'Attended ‘debate’ program at NDTV show at Archana Complex, Greater Kailash 1, New Delhi', 'Corporate Mentoring with Aeris Communication India Private Limited at Noida, U.P']
+name: Aeris Communication
+email: jvikas671@gmail.com
+mobile: Phone number not provided
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_Sales2.docx
+Saurabh Singh
+QNO- T/31/A Aishbagh guard railway colony maviya lucknow
+saurabhsingh.aims@gmail.com
+Dear Hiring Manager,
+I'm applying for a position at your company. Based on the posted description, I'm
+confident that I am fully qualified for the position and will be a strong addition to
+your team. I would appreciate a job interview at your earliest convenience. Please
+find my resume attached.
+I can be reached at the number above or at my email address.
+Saurabh Singh
+Saurabh Singh
+Qno – T/31/a Aishbagh guard railway colony maviya lucknow
+8976081118 •
+● To offer my skills to your company on the position of manager especially in
+the field of sales advertising and monitoring and to grasp power to enhance
+my professional skill set in accordance with organizational objectives.
+Key Qualifications
+● Problem solving skills.
+● Strong customer service skills ( developed through retail work experience ).
+● Self motivation and ability to take the initiative.
+● Ability to work under pressure.
+● Quick learner keen to learn and improve skills .
+● Excellent interpersonal skills and the ability to maintain and develop new
+client relationships.
+● The ability to influence other to buy goods or services or negotiate for the
+benefit of the organization.
+Work Experience
+Area sales officer
+Blackbuck ( Zinka logistics solution pvt Ltd)
+(Nov2018 – Aug 2019 )
+Appoint Channel partner Dsa in given territory.
+Identify fleet owner and truck owners in the region and pitch the cross sell categories (Gps, Fastag, tyre,).
+Educate fleet owners about interna- service application and cross sell product benefit to them .
+Onboard fleet owners on internal service platform to transact them.
+Current handling Amravati, yavatmal, akola Gonda, Lucknow Area.
+To generate revenue from appointed Channel Partner.
+New business development for assign area And territory.
+Responsible to generate revenue of 15 -25 lac /month.
+Take out market leads with current and existing customers base.
+Visibility on stocks with Channel partners.
+Provide loads to transport with accurate margins.
+Market research for new business.
+Managing transport service across territory.
+Handling transport operation in a very efficient manner with time management.
+Customer follow up with technician and technical setup for GPS
+Handling Toll query for transporter.
+Cross selling product for Truck Tyre ( Mrf,Michelin, JK).
+Sr Sales Executive (Freight Forwarding)
+Magnum Cargo Pvt Ltd (Dec 2107- Oct 2018)
+Prepare needs documents for custom clearance.
+Ocean /house bill of lading, AES/ISF filling, certificate of origin, packaging list and commercial invoice, documents against letter of credit.
+Arrange /coordinate trucking pick –up and delivery appointment with ability to effect cost effective transportation solutions.
+Filing Shipping bill ( Complete knowledge of filing documents through ICEGATE ) , Knowledge about the various schemes under DEPB/ EPCG/ 100%EOU /2ND Machinery /Re-import /SEZ, more about export document
+Filling ME IS through EBrc online.
+Interacting with client /handling Haz ,Non Haz & nomination shipment / tracking cargo / making calls to clients etc.
+Responsible for timely and accurate expediting of freight.
+Calculate weight, volume, or cost of goods to be moved.
+Manage and maintain ownership of assigned client accounts.
+Able to assist in all other areas of operations as directed by management
+Customer service skills including the ability to recognize the need of client along with problem solving.
+Recommended shipping solution to minimize cost or environment impacts provided export clearance for shipment based on country requirement.
+Excise & Shipping. Claiming Duty Refund for Excise. Documentation for applying DEPB License, its Sales, Transfer, etc. Supervising L/ C Scrutiny, Advance Payment, Remittance of Commissions to agents and Claim to Buyers, if any, in Foreign Currency.
+Quotations, liaising with agents and get rates, updates to customers , billing instructions.etc.
+New business development.
+Responsible to generate revenue three time to CTC.
+Business Development Executive
+Matrix cellular international services limited (Jan2016-July 2017)
+● Manage account and meet or exceed targets relating or revenue growth
+Activities profit margin .
+● Mix of products and service sales
+● Customer retention and customer acquisition.
+● Monitoring competitive activities and devising effective counter measures for
+the company.
+● Identify prospective opinion leader &amp: key account, generating business
+from existing customer.
+● Providing regular feedback to senior management about market place
+and competitor activities.
+● Develop effective working relationships with customer through regular meetings.
+● Responsible for generating monthly revenue of 3 – 5 lac)/ monthly.
+● Interacting with team members in a regular basis and focus on new
+offers product development.
+● Responsible for guiding them for making volume sales.
+Commercial Expert
+April 2013 - Nov 2015
+Bureau Veritas India limited ( International Trade Divison)
+● Bringing new clients to get benefit from our services.
+Prepare needs documents for custom clearence
+● Preparing documentation for export and Import .
+● Checking exports goods making assured of the quality as per mandates .
+● Dealing with HS code and comparison with internal computer
+databases documents.
+● Price evaluation and comparison with internal computer databases.
+● Determination of the value for the duty purpose.
+● Classification of goods accordance with the requirement of PSI mandates.
+● Developing skills on multiple contact.
+● Handling (MALI, COD, UAE ,SOUTH AFRICA )contract.
+● Assisting the team in carrying out the process efficiently.
+Practical knowledge about all CFS and custom work operation .
+Respecting the time limits.
+Ocean /house bill of lading, AES/ISF filling, certificate of origin, packaging list and commercial invoice, documents against letter of credit.
+Ensuing cost accuracy ,presenting cost revision ,updating cost history database, evaluating pricing action efficiency and responding fast to market condition..
+Developed strategic plans, business plans, and other key strategies through direct participation, including leadership roles, in Management Council and other corporate teams, workgroups and committees.
+Internship June 2011 - Aug 2011
+Hindustan Coca Cola beverage Pvt limited
+● Working in supply chain department .
+● To check visi cooler .
+● To maintain the ratio of stock .
+● To develop facilities of exchange of stock .
+Master of Business Administration Aug 2012
+Aims Institute of Management Studies
+● Graduated with 2div
+● Concentration in Marketing, export management and supply chain.
+Available upon request.
+Certification : Exim diploma
+['Saurabh Singh', 'QNO- T/31/A Aishbagh guard railway colony maviya lucknow', '8976081118', 'saurabhsingh.aims@gmail.com', 'Dear Hiring Manager,', "I'm applying for a position at your company. Based on the posted description, I'm", 'confident that I am fully qualified for the position and will be a strong addition to', 'your team. I would appreciate a job interview at your earliest convenience. Please', 'find my resume attached.', 'I can be reached at the number above or at my email address.', 'Sincerely,', 'Saurabh Singh', 'Saurabh Singh', 'Qno – T/31/a Aishbagh guard railway colony maviya lucknow', '8976081118 •', 'Objective', '● To offer my skills to your company on the position of manager especially in', 'the field of sales advertising and monitoring and to grasp power to enhance', 'my professional skill set in accordance with organizational objectives.', 'Key Qualifications', '● Problem solving skills.', '● Strong customer service skills ( developed through retail work experience ).', '● Self motivation and ability to take the initiative.', '● Ability to work under pressure.', '● Quick learner keen to learn and improve skills .', '● Excellent interpersonal skills and the ability to maintain and develop new', 'client relationships.', '● The ability to influence other to buy goods or services or negotiate for the', 'benefit of the organization.', 'Work Experience', 'Area sales officer', 'Blackbuck ( Zinka logistics solution pvt Ltd)', '(Nov2018 – Aug 2019 )', 'Appoint Channel partner Dsa in given territory.', 'Identify fleet owner and truck owners in the region and pitch the cross sell categories (Gps, Fastag, tyre,).', 'Educate fleet owners about interna- service application and cross sell product benefit to them .', 'Onboard fleet owners on internal service platform to transact them.', 'Current handling Amravati, yavatmal, akola Gonda, Lucknow Area.', 'To generate revenue from appointed Channel Partner.', 'New business development for assign area And territory.', 'Responsible to generate revenue of 15 -25 lac /month.', 'Take out market leads with current and existing customers base.', 'Visibility on stocks with Channel partners.', 'Provide loads to transport with accurate margins.', 'Market research for new business.', 'Managing transport service across territory.', 'Handling transport operation in a very efficient manner with time management.', 'Customer follow up with technician and technical setup for GPS', 'Handling Toll query for transporter.', 'Cross selling product for Truck Tyre ( Mrf,Michelin, JK).', 'Sr Sales Executive (Freight Forwarding)', 'Magnum Cargo Pvt Ltd (Dec 2107- Oct 2018)', 'Prepare needs documents for custom clearance.', 'Ocean /house bill of lading, AES/ISF filling, certificate of origin, packaging list and commercial invoice, documents against letter of credit.', 'Arrange /coordinate trucking pick –up and delivery appointment with ability to effect cost effective transportation solutions.', 'Filing Shipping bill ( Complete knowledge of filing documents through ICEGATE ) , Knowledge about the various schemes under DEPB/ EPCG/ 100%EOU /2ND Machinery /Re-import /SEZ, more about export document', 'Filling ME IS through EBrc online.', 'Interacting with client /handling Haz ,Non Haz & nomination shipment / tracking cargo / making calls to clients etc.', 'Responsible for timely and accurate expediting of freight.', 'Calculate weight, volume, or cost of goods to be moved.', 'Manage and maintain ownership of assigned client accounts.', 'Able to assist in all other areas of operations as directed by management', 'Customer service skills including the ability to recognize the need of client along with problem solving.', 'Recommended shipping solution to minimize cost or environment impacts provided export clearance for shipment based on country requirement.', 'Excise & Shipping. Claiming Duty Refund for Excise. Documentation for applying DEPB License, its Sales, Transfer, etc. Supervising L/ C Scrutiny, Advance Payment, Remittance of Commissions to agents and Claim to Buyers, if any, in Foreign Currency.', 'Quotations, liaising with agents and get rates, updates to customers , billing instructions.etc.', 'New business development.', 'Responsible to generate revenue three time to CTC.', 'Business Development Executive', 'Matrix cellular international services limited (Jan2016-July 2017)', '● Manage account and meet or exceed targets relating or revenue growth', 'Activities profit margin .', '● Mix of products and service sales', '● Customer retention and customer acquisition.', '● Monitoring competitive activities and devising effective counter measures for', 'the company.', '● Identify prospective opinion leader &amp: key account, generating business', 'from existing customer.', '● Providing regular feedback to senior management about market place', 'and competitor activities.', '● Develop effective working relationships with customer through regular meetings.', '● Responsible for generating monthly revenue of 3 – 5 lac)/ monthly.', '● Interacting with team members in a regular basis and focus on new', 'offers product development.', '● Responsible for guiding them for making volume sales.', 'Commercial Expert', 'April 2013 - Nov 2015', 'Bureau Veritas India limited ( International Trade Divison)', '● Bringing new clients to get benefit from our services.', 'Prepare needs documents for custom clearence', '● Preparing documentation for export and Import .', '● Checking exports goods making assured of the quality as per mandates .', '● Dealing with HS code and comparison with internal computer', 'databases documents.', '● Price evaluation and comparison with internal computer databases.', '● Determination of the value for the duty purpose.', '● Classification of goods accordance with the requirement of PSI mandates.', '● Developing skills on multiple contact.', '● Handling (MALI, COD, UAE ,SOUTH AFRICA )contract.', '● Assisting the team in carrying out the process efficiently.', 'Practical knowledge about all CFS and custom work operation .', 'Respecting the time limits.', 'Ocean /house bill of lading, AES/ISF filling, certificate of origin, packaging list and commercial invoice, documents against letter of credit.', 'Ensuing cost accuracy ,presenting cost revision ,updating cost history database, evaluating pricing action efficiency and responding fast to market condition..', 'Developed strategic plans, business plans, and other key strategies through direct participation, including leadership roles, in Management Council and other corporate teams, workgroups and committees.', 'Internship June 2011 - Aug 2011', 'Hindustan Coca Cola beverage Pvt limited', '● Working in supply chain department .', '● To check visi cooler .', '● To maintain the ratio of stock .', '● To develop facilities of exchange of stock .', 'Education', 'Master of Business Administration Aug 2012', 'Aims Institute of Management Studies', '● Graduated with 2div', '● Concentration in Marketing, export management and supply chain.', 'References', 'Available upon request.', 'Certification : Exim diploma']
+name: Aims Institute
+email: saurabhsingh.aims@gmail.com
+mobile: Phone number not provided
+experience: )
+objective: .
+expertise: loped through retail work experience ).
+expertise: lop new
+expertise: area.
+expertise: lopment for assign area and territory.
+expertise: e bill of lading, aes/isf filling, certificate of origin, packaging list and commercial invoice, documents against letter of credit.
+expertise: ledge of filing documents through icegate ) , knowledge about the various schemes under depb/ epcg/ 100%eou /2nd machinery /re-import /sez, more about export document
+expertise: lopment.
+expertise: lopment executive
+expertise: lop effective working relationships with customer through regular meetings.
+expertise: lopment.
+expertise: loping skills on multiple contact.
+expertise: ledge about all cfs and custom work operation .
+expertise: e bill of lading, aes/isf filling, certificate of origin, packaging list and commercial invoice, documents against letter of credit.
+expertise: loped strategic plans, business plans, and other key strategies through direct participation, including leadership roles, in management council and other corporate teams, workgroups and committees.
+expertise: lop facilities of exchange of stock .
+expertise: ster of business administration aug 2012
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_HR2 Infosys.pdf
+Heena Bisht
+heenabisht@ymail.com
+DOB: 30 April 1993
+Art Fanatic | Maker |DIY enthusiast
+Click here to review my
+PROFESSION AL SUM M ARY
+  Currently  working  with  Infosys  Limited as  Senior Associate Lead- Employee Relations in Bangalore  with a span of
+28,000+ employees.
+Involved in driving relevant communication and formulating quarterly DCHR strategy for employees in Bangalore DC.
+  Responsible  for  reinforcing  culture  through  various  employee  engagement  activities  at  a  location  and  organization
+WORK EXPERIENCE
+INFOSYS LIM ITED
+M AY 9, 2016- PRESENT
+  Designed,  developed  and  implemented  the  corporate  wellness  and  safety  program  calendar  for
+Bangalore DC for 2016 and 2017.
+  On-boarded  7200+  employees  including  over  50+  senior  leadership  into  the  Infosys  Way  of  Life,
+creating a WOW experience and ensuring 100% compliance till October 2017.
+  Creating a positive work environment at work by ensuring 100% compliance and closure in grievance
+management and issues resolution.
+  Member of the Incident Management Group and responsible for investigating concerns pertaining to
+workplace concerns (disciplinary and Information Security violations).
+  Designed and implemented Samaritans- peer to peer counselling network for Infosys Limited across
+all India locations.
+  Member  of  the  Investigative  Council  for  reporting  and  investigating  concerns  pertaining  to  Sexual
+Harassment.
+  Handled various employee emergencies and provided support to the families of the aggrieved at the
+location level.
+  Designed and developed Development Center HR dashboards and reports quarterly for location level
+for various stakeholders.
+MANAGEMENT  TRAI NEE P ROJ ECT
+  Redesigned  and  developed  various  new  initiatives  under  HALE,  one  of  the  Employee  Value
+Proposition of Infosys by launching mobile app with gamification around health and wellness.
+  Created a ready reckoner for Business Partner HRs on GOSM compensation model.
+PROFESSION AL &  AC ADEM IC EDUC AT ION
+N AM E  OF  UNI VERSI TY/ C OL LEGE
+PERCENT AG E
+B.Sc.(Hons) Chemistry
+International Management Institute New Delhi
+Gargi College, University of Delhi
+Ryan International School, Faridabad
+Ryan International School, Faridabad
+RICOH INDI A LIM ITED
+APRIL 2015  –JUNE 2015
+INDUSTRY INTERF AC E
+  Identified the grey areas in Employee Engagement & recommended suggestions to enhance the overall
+Employee Engagement Levels.
+TCG H AM ILTON INDI A L IM ITED
+J ANU ARY 2015 -FEBRU ARY 2015
+  Designed and developed a Performance Management System as per the needs of the organization.
+  Suggested various initiatives for Employee Engagement and Workplace Flexibility in the organization.
+REW ARDS & RECOGNITIO N
+  Secured  2nd  position amongst  15 clubs  and  committees  as  then  Best  Committee  in  Bangalore  DC  for
+Food Experience team in July 2017.
+  Awarded Best BPHR Initiative for Caterpillar Rebadging in April 2017.
+  Awarded  Bravo  Award  for  Excellence  (Individual  Contributor)  for  bringing  in  renewed  approach  in
+Employee Engagement activities in December 2016.
+  Secured  2nd  position  amongst  21  teams  in  HR  Quiz  conducted  by  National  Institute  of  Personnel
+Management (NIPM), Northern Region representing IMI, New Delhi, 2015.
+  Vice President, member of the Gargi College Student Council 2012-13.
+  Received Certificate of Appreciation for tremendous contribution in HUES- The Fine Arts Society in Gargi
+ACTIVITIES  AND INTER EST
+  Active Runner and podium finisher for 2.5K and 5K at corporate level.
+  Organized various events as part of the DCHR team at Infosys Limited (Bangalore One HR offsite, Quarterly Town halls
+Inclined towards arts and craft, decoration, coffee painting and singing.
+with CEO, Bi-annual InfyRun 2016 and 2017, Stellar Saturday, Petit Infoscion Day and other celebrations).
+  Organized  various  events  as  a  member  of  the  Gargi  College  Students  Union  2012-13  (Reverie,  Jashn-e-India,
+Scintillations, Gargi Olympiad, SPIN & Fresher’s Day) at Gargi College.
+  Actively participated in blood donation drives in corporate, college and school level.
+['Heena Bisht', '8130722597', 'heenabisht@ymail.com', 'DOB: 30 April 1993', 'Art Fanatic | Maker |DIY enthusiast', 'profile', 'Click here to review my', 'PROFESSION AL SUM M ARY', '\uf0b7  Currently  working  with  Infosys  Limited as  Senior Associate Lead- Employee Relations in Bangalore  with a span of', '28,000+ employees.', '\uf0b7', 'Involved in driving relevant communication and formulating quarterly DCHR strategy for employees in Bangalore DC.', '\uf0b7  Responsible  for  reinforcing  culture  through  various  employee  engagement  activities  at  a  location  and  organization', 'level.', 'WORK EXPERIENCE', 'Senior', 'Associate', 'Lead-', 'Employee', 'Relations,', 'HRD', 'INFOSYS LIM ITED', 'M AY 9, 2016- PRESENT', '\uf0b7  Designed,  developed  and  implemented  the  corporate  wellness  and  safety  program  calendar  for', 'Bangalore DC for 2016 and 2017.', '\uf0b7  On-boarded  7200+  employees  including  over  50+  senior  leadership  into  the  Infosys  Way  of  Life,', 'creating a WOW experience and ensuring 100% compliance till October 2017.', '\uf0b7  Creating a positive work environment at work by ensuring 100% compliance and closure in grievance', 'management and issues resolution.', '\uf0b7  Member of the Incident Management Group and responsible for investigating concerns pertaining to', 'workplace concerns (disciplinary and Information Security violations).', '\uf0b7  Designed and implemented Samaritans- peer to peer counselling network for Infosys Limited across', 'all India locations.', '\uf0b7  Member  of  the  Investigative  Council  for  reporting  and  investigating  concerns  pertaining  to  Sexual', 'Harassment.', '\uf0b7  Handled various employee emergencies and provided support to the families of the aggrieved at the', 'location level.', '\uf0b7  Designed and developed Development Center HR dashboards and reports quarterly for location level', 'for various stakeholders.', 'MANAGEMENT  TRAI NEE P ROJ ECT', '\uf0b7  Redesigned  and  developed  various  new  initiatives  under  HALE,  one  of  the  Employee  Value', 'Proposition of Infosys by launching mobile app with gamification around health and wellness.', '\uf0b7  Created a ready reckoner for Business Partner HRs on GOSM compensation model.', 'PROFESSION AL &  AC ADEM IC EDUC AT ION', 'YE AR', '2014-16', '2013', '2010', '2008', 'COURSE', 'N AM E  OF  UNI VERSI TY/ C OL LEGE', 'PERCENT AG E', 'PGDM-HR', 'B.Sc.(Hons) Chemistry', 'Class XII', 'Class X', 'International Management Institute New Delhi', 'Gargi College, University of Delhi', 'Ryan International School, Faridabad', 'Ryan International School, Faridabad', '70.50%', '72.09%', '83.20%', '92.20%', 'RICOH INDI A LIM ITED', 'APRIL 2015  –JUNE 2015', 'INDUSTRY INTERF AC E', 'Summer', 'Internship', 'Project', 'Corporate', 'Immersion', 'Program', '\uf0b7  Identified the grey areas in Employee Engagement & recommended suggestions to enhance the overall', 'Employee Engagement Levels.', 'TCG H AM ILTON INDI A L IM ITED', 'J ANU ARY 2015 -FEBRU ARY 2015', '\uf0b7  Designed and developed a Performance Management System as per the needs of the organization.', '\uf0b7  Suggested various initiatives for Employee Engagement and Workplace Flexibility in the organization.', 'REW ARDS & RECOGNITIO N', 'Infosys', 'Limited', 'IMI', 'Delhi', 'Gargi', 'College', '\uf0b7  Secured  2nd  position amongst  15 clubs  and  committees  as  then  Best  Committee  in  Bangalore  DC  for', 'Food Experience team in July 2017.', '\uf0b7  Awarded Best BPHR Initiative for Caterpillar Rebadging in April 2017.', '\uf0b7  Awarded  Bravo  Award  for  Excellence  (Individual  Contributor)  for  bringing  in  renewed  approach  in', 'Employee Engagement activities in December 2016.', '\uf0b7  Secured  2nd  position  amongst  21  teams  in  HR  Quiz  conducted  by  National  Institute  of  Personnel', 'Management (NIPM), Northern Region representing IMI, New Delhi, 2015.', '\uf0b7  Vice President, member of the Gargi College Student Council 2012-13.', '\uf0b7  Received Certificate of Appreciation for tremendous contribution in HUES- The Fine Arts Society in Gargi', 'College.', 'ACTIVITIES  AND INTER EST', '\uf0b7  Active Runner and podium finisher for 2.5K and 5K at corporate level.', '\uf0b7', '\uf0b7  Organized various events as part of the DCHR team at Infosys Limited (Bangalore One HR offsite, Quarterly Town halls', 'Inclined towards arts and craft, decoration, coffee painting and singing.', 'with CEO, Bi-annual InfyRun 2016 and 2017, Stellar Saturday, Petit Infoscion Day and other celebrations).', '\uf0b7  Organized  various  events  as  a  member  of  the  Gargi  College  Students  Union  2012-13  (Reverie,  Jashn-e-India,', 'Scintillations, Gargi Olympiad, SPIN & Fresher’s Day) at Gargi College.', '\uf0b7  Actively participated in blood donation drives in corporate, college and school level.']
+name: Gargi Olympiad
+email: heenabisht@ymail.com
+mobile: Phone number not provided
+experience: team
+expertise: loped  and  implemented  the  corporate  wellness  and  safety  program  calendar  for
+expertise: loped development center hr dashboards and reports quarterly for location level
+expertise: loped  various  new  initiatives  under  hale,  one  of  the  employee  value
+expertise: loped a performance management system as per the needs of the organization.
+++++++++++++++++++++++++++++++++++++++++++
+parsing file:  /home/jatin/iitb/flexiele/resume_parser/src/parsers/../../dataset/samplecv/CV_HR3.docx
+RITESH KUMAR KAUSHAL
+Contact Address:-Flat No. TE-02, Vastu Vihar Colony Phase-01, Chira Chas, District-Bokaro, Jharkhand, Pin-827 013
+Mobile: +91 8986773571, +91 8758888613, +91 9608111498
+E-mail: riteshkrkaushal@gmail.com
+HR/ IR PROFESSIONAL
+Qualified HR/ IR/ P&A Professional with 09.03 years of experience with very reputed organizations of the country as per trail attributes:-
+Objective:-
+To exploit my strong analytical and problem solving skills in an organization which would offer me lot of opportunities to explore, learn and further expand on my skill set to addressing progress of company.
+Professional Profile:-
+Statuty Compliance, Payroll Processing, General Administration, HR/ IR Best Practices, Manpower Planning, Organisational Development, Welfare Facilities, Industrial Relations, Change Management, Staff Coaching & Mentoring, Event Management, HR/IR/Administration Policy and System Design.
+Working experience:-
+Working in L&T Hydrocarbon Engineering Limited from Sep’ 2014 to till date as Assistant Officer-Industrial Relations in Industrial Relations Department at under Reliance J3 project in Jamnagar as Time Office In-Charge in AGR/ AGR precast/ BOP site.
+Job Profile:-
+The entire site related administration and welfare activities including supervising the one canteen , Dinner arrangement of Staff & Labour if work go late in night and Sundays, Labour Rest Room, Drinking Water, Lavatory facility, Workmen Register, Muster Roll, Wages Slip, Attendance Card, Employment Cards, History Book, PF withdrawal etc.
+Supervision of Statutory registers like Advance, Fine, and Damage & Loss of Departmental Staff/ workmen.
+Monitoring Attendance -Supervision of Attendance of Staff & Departmental Staff for payment processing in co-ordination with ISD regarding finger punching, Site administration, Employee/ Industrial relations, Attendance of the employees will be taken from the Access Machine and monitored on a twice-a-week basis, Late arrivals monitoring and inform the concern heads for follow-up action to be taken in some cases, if any, Overtime monitoring and taking necessary approval from the department head, Monitoring the Staff Movement register.
+Scheduling Office Boys-Preparing the office boys’ schedule and sort out the problems in Housekeeping, Monitoring the daily schedule for office boys.
+Pantry /Housekeeping Materials Control- Maintain and monitor coffee/tea refreshments and ordering the requirements of pantry and housekeeping material as and when required, Addressing and attending to complaints regarding office equipments including A/C maintenance etc.
+Automobile Log Book/ Transport Management - Maintaining & monitoring automobile log books of the company vehicles including servicing, insurance, and other routine formalities of these vehicles, Maintaining & monitoring drivers’ log books and their schedules.
+Security- Monitoring the Security Guards, Maintaining the attendance and issues dealing with the security outsourcing company, maintaining visitors’ access cards at Security.
+Employee/ Workmen Grievances-Addressing and attending to the employee/ workmen grievances towards effective resolution within a stipulated time as well as discuss with the Management for intervention if necessary.
+Leaves & Permission Monitoring including out permission- Monitoring the leaves received through e-mail and routing them to the concerned Department Head, Maintaining a register for the leaves received through phone intimation, Monitoring & maintaining the Leaves & Permissions Register.
+Line Reporting :- Manager – IR Operational Reproting :- M3A & M2C For two site.
+Achivements:-
+Received accredation from HSE regarding safety conscious person with my team.
+Magnaged two sites (SEZ_AGR & SEZ_BOP) full administration and welfare facilities for staffs and workers with IR issues, workmen maximum approx. up to 10000 and staff maximum up to 575 for both site.
+Seminor/ Training:-
+Attended seminar on UAN , return filing and changes in EPF at Reliance.
+Emergency Traning session organised by RIL.
+Full day safety traning by L&T J3 HSE Department.
+Worked experience:-
+Worked in McNally Bharat Engineering Company Limited from May’ 2012 to Sep’2014 as Senior Clerk in P&A Department at under BTPS (BHEL), Barauni for the construction of 2 x 250 MW Extension Project Site & 2 x 125 MW Old Power Plant renovation project and holding second position in hierarchy after Manager (P&A).
+Job Profile:-
+Preparation and maintenance of Wages Sheet, Wages Slip, Attendance cards and Attendance Register for Departmental staff up to 150 along with screening of CV, preliminary interview and recommendation for recruitment, Retrenchment of workmen (Full & Final Settlement).
+Maintenance of data bank of Bio data, workmen register, History Book, Statutory register like Advance, Fine, Damage & Loss of Departmental Staff.
+Maintenance of Man days and Over time of subcontractors up to 23, Sub-contractor register, and making pay sheet of sub-contractors who supply labours up to 375.
+Preparation and maintenance of attendance register for Payroll staff getting approval from site and timely sending for payment to HO.
+Doing Joining formalities for Payroll staff, making reimbursement for contractual staff, checking travel bill, medical bill, mess reimbursement bill etc.
+Stationery management- getting requirement from different department and supervise proper disbursement, LOI with vendor, Generating quotation etc.
+Getting EPF number, maintenance of EPF register, arrange to make statement and sending cheque to HO, making form 3A, 10 and withdrawal form 10C and 19.
+Liaison with Telecom Company for arranges to issue corporate connection & liaison with company for day to day exercise and processing bill for payment.
+Arrangement of commercial Gas connection for staff mess and look after staff welfare and facilitating service to staff.
+Vehicle Bill, Quotation/ Tender, making LOI, renewal getting it arrange to approve/renew it from HO.
+Liaison with RTO for company vehicles like TM, Hydra and liaison with insurance department for insurance/ renewal of vehicles.
+Co-ordination mediclaim reimbursement of staff through HO from service provider.
+Creation of E-mail IDs & EIP login & Password- Coordinate with the System Administrator for creation/deletion of Email IDs of employees as well as EIP login & Password.
+Stationery Control- Collecting the stationery requirement of the employees, Order the stationery as per the requirement, Maintaining the Stationery Register and update accordingly, Keep track of stationery movement.
+Leaves & Permission Monitoring and List of Holidays - Preparing the List of Holidays applicable during the year, sending inter-office memoranda during holidays after confirmation from the Management.
+Asset Logging-Maintain & monitor the resources and assets and of the company and logging the same as well as maintaining a register, Issuing the resources/assets when a new employee joins the company, Recovering the resources/assets when employees are leaving the company.
+ID Cards/Bank Application/Visiting Cards- Collecting three photographs from the newly-joined employee; one for the ID card/ one for Bank Application/one photo for his/her personal file, after getting the ID card, the bank application with a copy of ID card will be submitted to the Accounts Department for opening Bank Accounts.
+Roles & Responsibilities-Collecting and Preparing the roles and responsibilities of the employees and updating the management and make necessary amendments as and when required.
+Internal Transfer-Monitoring Internal Transfer of the employees from site to site and within the office, Salary Statements (Departmental Staff) - Collecting the Attendance Sheets, Preparing a consolidation of working hours, Collecting applicable deductions of employees from the Accounts Department, Collecting mobile deductions from the Accounts Department, Preparing Salary Statements, Submit the Salary Statements to the Accounts Department for payment in cash or through bank.
+Line Reporting :- Manager – IR Operational Reproting :- Deputy General Manager
+Worked experience:-
+Worked as Assistant in Time Office/ IR Department of M/s Larsen & Toubro, M & MH IC from 11.11.2010 to 30.04.2012 at SAIL-BSL Project Site for the construction of New CRM III Complex.
+Worked as Assistant in Time Office/ IR Department of M/s Larsen & Toubro, M & MH IC from 27.01.2010 to 10.10.2010 at SAIL- BSL Project Site for the UP-Gradation of BF#02.
+Job Profile:-
+Preparation of Maintenance of Wages Sheet, Wages Slip, and Attendance Card & Attendance Register for Departmental/ Regular Supply Workmen up to 213, Maintenance of Man days & Over Time in excel sheet of up to 60 Sub-Contractors.
+Preparation of Hired Vehicle Bill up to 23 vehicles along with security bill processing.
+EPF related work like preparation of EPF Statement, 3(A), 10 & withdrawal form 10C & 19.
+ESIC related work like preparation of six monthly returns, allotment of new IP No’s through portal, uploading bulk data on ESIC Portal, Health Card, etc.
+Labour Laws: Contract Labour Act, Equal Remuneration Act, Minimum Wages Act, ID Act, Payment of Wages Act, Factory Act, etc.
+Recruitment of Regular Supply Workmen through Screening, NSSN, ESI and issue of Employment Card under Contract Labour Act.
+Maintenances of Workmen Register, History Book, Statutory Register like Advance, Fine, Damage & loss of Regular Supply Workmen.
+F&F of (Regular Supply & Sub-Contractors) with maintenance of Service certificate, PF withdrawal register, clearance certificate for F&F for Regular Supply Workmen, Retrenchment of workmen (F&F).
+Line Reporting: IR Incharge.
+Worked experience:-
+Worked as HR Executive in M/s R. R. Roy & Co. from 07.11.2008 to 25.01.2010 at Bokaro Steel City in its central office for its various projects which running under HSCL, SAIL, and L&T Limited.
+Job Profile:-
+Muster Roll, Administration, Attendance Management, Employee/ Industrial Relation, Liaison with various concern governmental officials & monitoring day to day different site related work etc.
+Education:-
+Appearing for Vskills “Certified Human Resource Manager” certification examination, which conduced by Vskills a JV body of Govt. of India and Govt. of NCT Delhi.
+Holding Post Graduate Diploma in Human Resource Management from IGNOU/ June-2014/ First Division with 67% marks.
+Holding Three Years Bachelor in Law Professional classroom course from Vinoba Bhave University, Hazaribag, Jharkhand/1999-2002/ stood 5th in the college.
+Holding Three Years Bachelor in Science class room course from Vinoba Bhave University, Hazaribag, Jharkhand/1994-1997/ stood 1st in the college.
+Six Months Diploma in Computer Application (DCA) from RCPP, Ranchi Dec-2004/ stood 2nd in the batch with A+ Grade and 65% marks.
+MS Office – MS Word, MS Excel, MS Power Point, Pivot Table, VLookup.
+Internet savvy- Using SEO and e-mail.
+Personal Detail:-
+Father’s Name : Shri. Rajendra Prasad Mahto
+Language Known : English & Hindi
+Citizenship : Indian
+Date of Birth : 08.02.1976
+Marital Status : Married
+Blood Group : O +
+Reference/ Expected Salary : Available up on request.
+Thanking you!
+Yours Sincerely
+Ritesh Kumar Kaushal
+['RITESH KUMAR KAUSHAL', 'Contact Address:-Flat No. TE-02, Vastu Vihar Colony Phase-01, Chira Chas, District-Bokaro, Jharkhand, Pin-827 013', 'Mobile: +91 8986773571, +91 8758888613, +91 9608111498', 'E-mail: riteshkrkaushal@gmail.com', 'HR/ IR PROFESSIONAL', 'Qualified HR/ IR/ P&A Professional with 09.03 years of experience with very reputed organizations of the country as per trail attributes:-', 'Objective:-', 'To exploit my strong analytical and problem solving skills in an organization which would offer me lot of opportunities to explore, learn and further expand on my skill set to addressing progress of company.', 'Professional Profile:-', 'Statuty Compliance, Payroll Processing, General Administration, HR/ IR Best Practices, Manpower Planning, Organisational Development, Welfare Facilities, Industrial Relations, Change Management, Staff Coaching & Mentoring, Event Management, HR/IR/Administration Policy and System Design.', 'Working experience:-', 'Working in L&T Hydrocarbon Engineering Limited from Sep’ 2014 to till date as Assistant Officer-Industrial Relations in Industrial Relations Department at under Reliance J3 project in Jamnagar as Time Office In-Charge in AGR/ AGR precast/ BOP site.', 'Job Profile:-', 'The entire site related administration and welfare activities including supervising the one canteen , Dinner arrangement of Staff & Labour if work go late in night and Sundays, Labour Rest Room, Drinking Water, Lavatory facility, Workmen Register, Muster Roll, Wages Slip, Attendance Card, Employment Cards, History Book, PF withdrawal etc.', 'Supervision of Statutory registers like Advance, Fine, and Damage & Loss of Departmental Staff/ workmen.', 'Monitoring Attendance -Supervision of Attendance of Staff & Departmental Staff for payment processing in co-ordination with ISD regarding finger punching, Site administration, Employee/ Industrial relations, Attendance of the employees will be taken from the Access Machine and monitored on a twice-a-week basis, Late arrivals monitoring and inform the concern heads for follow-up action to be taken in some cases, if any, Overtime monitoring and taking necessary approval from the department head, Monitoring the Staff Movement register.', 'Scheduling Office Boys-Preparing the office boys’ schedule and sort out the problems in Housekeeping, Monitoring the daily schedule for office boys.', 'Pantry /Housekeeping Materials Control- Maintain and monitor coffee/tea refreshments and ordering the requirements of pantry and housekeeping material as and when required, Addressing and attending to complaints regarding office equipments including A/C maintenance etc.', 'Automobile Log Book/ Transport Management - Maintaining & monitoring automobile log books of the company vehicles including servicing, insurance, and other routine formalities of these vehicles, Maintaining & monitoring drivers’ log books and their schedules.', 'Security- Monitoring the Security Guards, Maintaining the attendance and issues dealing with the security outsourcing company, maintaining visitors’ access cards at Security.', 'Employee/ Workmen Grievances-Addressing and attending to the employee/ workmen grievances towards effective resolution within a stipulated time as well as discuss with the Management for intervention if necessary.', 'Leaves & Permission Monitoring including out permission- Monitoring the leaves received through e-mail and routing them to the concerned Department Head, Maintaining a register for the leaves received through phone intimation, Monitoring & maintaining the Leaves & Permissions Register.', 'Line Reporting :- Manager – IR Operational Reproting :- M3A & M2C For two site.', 'Achivements:-', 'Received accredation from HSE regarding safety conscious person with my team.', 'Magnaged two sites (SEZ_AGR & SEZ_BOP) full administration and welfare facilities for staffs and workers with IR issues, workmen maximum approx. up to 10000 and staff maximum up to 575 for both site.', 'Seminor/ Training:-', 'Attended seminar on UAN , return filing and changes in EPF at Reliance.', 'Emergency Traning session organised by RIL.', 'Full day safety traning by L&T J3 HSE Department.', 'Worked experience:-', 'Worked in McNally Bharat Engineering Company Limited from May’ 2012 to Sep’2014 as Senior Clerk in P&A Department at under BTPS (BHEL), Barauni for the construction of 2 x 250 MW Extension Project Site & 2 x 125 MW Old Power Plant renovation project and holding second position in hierarchy after Manager (P&A).', 'Job Profile:-', 'Preparation and maintenance of Wages Sheet, Wages Slip, Attendance cards and Attendance Register for Departmental staff up to 150 along with screening of CV, preliminary interview and recommendation for recruitment, Retrenchment of workmen (Full & Final Settlement).', 'Maintenance of data bank of Bio data, workmen register, History Book, Statutory register like Advance, Fine, Damage & Loss of Departmental Staff.', 'Maintenance of Man days and Over time of subcontractors up to 23, Sub-contractor register, and making pay sheet of sub-contractors who supply labours up to 375.', 'Preparation and maintenance of attendance register for Payroll staff getting approval from site and timely sending for payment to HO.', 'Doing Joining formalities for Payroll staff, making reimbursement for contractual staff, checking travel bill, medical bill, mess reimbursement bill etc.', 'Stationery management- getting requirement from different department and supervise proper disbursement, LOI with vendor, Generating quotation etc.', 'Getting EPF number, maintenance of EPF register, arrange to make statement and sending cheque to HO, making form 3A, 10 and withdrawal form 10C and 19.', 'Liaison with Telecom Company for arranges to issue corporate connection & liaison with company for day to day exercise and processing bill for payment.', 'Arrangement of commercial Gas connection for staff mess and look after staff welfare and facilitating service to staff.', 'Vehicle Bill, Quotation/ Tender, making LOI, renewal getting it arrange to approve/renew it from HO.', 'Liaison with RTO for company vehicles like TM, Hydra and liaison with insurance department for insurance/ renewal of vehicles.', 'Co-ordination mediclaim reimbursement of staff through HO from service provider.', 'Creation of E-mail IDs & EIP login & Password- Coordinate with the System Administrator for creation/deletion of Email IDs of employees as well as EIP login & Password.', 'Stationery Control- Collecting the stationery requirement of the employees, Order the stationery as per the requirement, Maintaining the Stationery Register and update accordingly, Keep track of stationery movement.', 'Leaves & Permission Monitoring and List of Holidays - Preparing the List of Holidays applicable during the year, sending inter-office memoranda during holidays after confirmation from the Management.', 'Asset Logging-Maintain & monitor the resources and assets and of the company and logging the same as well as maintaining a register, Issuing the resources/assets when a new employee joins the company, Recovering the resources/assets when employees are leaving the company.', 'ID Cards/Bank Application/Visiting Cards- Collecting three photographs from the newly-joined employee; one for the ID card/ one for Bank Application/one photo for his/her personal file, after getting the ID card, the bank application with a copy of ID card will be submitted to the Accounts Department for opening Bank Accounts.', 'Roles & Responsibilities-Collecting and Preparing the roles and responsibilities of the employees and updating the management and make necessary amendments as and when required.', 'Internal Transfer-Monitoring Internal Transfer of the employees from site to site and within the office, Salary Statements (Departmental Staff) - Collecting the Attendance Sheets, Preparing a consolidation of working hours, Collecting applicable deductions of employees from the Accounts Department, Collecting mobile deductions from the Accounts Department, Preparing Salary Statements, Submit the Salary Statements to the Accounts Department for payment in cash or through bank.', 'Line Reporting :- Manager – IR Operational Reproting :- Deputy General Manager', 'Worked experience:-', 'Worked as Assistant in Time Office/ IR Department of M/s Larsen & Toubro, M & MH IC from 11.11.2010 to 30.04.2012 at SAIL-BSL Project Site for the construction of New CRM III Complex.', 'Worked as Assistant in Time Office/ IR Department of M/s Larsen & Toubro, M & MH IC from 27.01.2010 to 10.10.2010 at SAIL- BSL Project Site for the UP-Gradation of BF#02.', 'Job Profile:-', 'Preparation of Maintenance of Wages Sheet, Wages Slip, and Attendance Card & Attendance Register for Departmental/ Regular Supply Workmen up to 213, Maintenance of Man days & Over Time in excel sheet of up to 60 Sub-Contractors.', 'Preparation of Hired Vehicle Bill up to 23 vehicles along with security bill processing.', 'EPF related work like preparation of EPF Statement, 3(A), 10 & withdrawal form 10C & 19.', 'ESIC related work like preparation of six monthly returns, allotment of new IP No’s through portal, uploading bulk data on ESIC Portal, Health Card, etc.', 'Labour Laws: Contract Labour Act, Equal Remuneration Act, Minimum Wages Act, ID Act, Payment of Wages Act, Factory Act, etc.', 'Recruitment of Regular Supply Workmen through Screening, NSSN, ESI and issue of Employment Card under Contract Labour Act.', 'Maintenances of Workmen Register, History Book, Statutory Register like Advance, Fine, Damage & loss of Regular Supply Workmen.', 'F&F of (Regular Supply & Sub-Contractors) with maintenance of Service certificate, PF withdrawal register, clearance certificate for F&F for Regular Supply Workmen, Retrenchment of workmen (F&F).', 'Line Reporting: IR Incharge.', 'Worked experience:-', 'Worked as HR Executive in M/s R. R. Roy & Co. from 07.11.2008 to 25.01.2010 at Bokaro Steel City in its central office for its various projects which running under HSCL, SAIL, and L&T Limited.', 'Job Profile:-', 'Muster Roll, Administration, Attendance Management, Employee/ Industrial Relation, Liaison with various concern governmental officials & monitoring day to day different site related work etc.', 'Education:-', 'Appearing for Vskills “Certified Human Resource Manager” certification examination, which conduced by Vskills a JV body of Govt. of India and Govt. of NCT Delhi.', 'Holding Post Graduate Diploma in Human Resource Management from IGNOU/ June-2014/ First Division with 67% marks.', 'Holding Three Years Bachelor in Law Professional classroom course from Vinoba Bhave University, Hazaribag, Jharkhand/1999-2002/ stood 5th in the college.', 'Holding Three Years Bachelor in Science class room course from Vinoba Bhave University, Hazaribag, Jharkhand/1994-1997/ stood 1st in the college.', 'Six Months Diploma in Computer Application (DCA) from RCPP, Ranchi Dec-2004/ stood 2nd in the batch with A+ Grade and 65% marks.', 'MS Office – MS Word, MS Excel, MS Power Point, Pivot Table, VLookup.', 'Internet savvy- Using SEO and e-mail.', 'Personal Detail:-', 'Father’s Name : Shri. Rajendra Prasad Mahto', 'Language Known : English & Hindi', 'Citizenship : Indian', 'Sex : Male', 'Date of Birth : 08.02.1976', 'Marital Status : Married', 'Blood Group : O +', 'Reference/ Expected Salary : Available up on request.', 'Thanking you!', 'Yours Sincerely', 'Ritesh Kumar Kaushal']
+name: Ritesh Kumar
+email: riteshkrkaushal@gmail.com
+mobile: Phone number not provided
+education: -
+experience: -
+objective: -
+expertise: lopment, welfare facilities, industrial relations, change management, staff coaching & mentoring, event management, hr/ir/administration policy and system design.
+expertise: ekeeping, monitoring the daily schedule for office boys.
+expertise: ekeeping materials control- maintain and monitor coffee/tea refreshments and ordering the requirements of pantry and housekeeping material as and when required, addressing and attending to complaints regarding office equipments including a/c maintenance etc.
+expertise: n  english & hindi
+++++++++++++++++++++++++++++++++++++++++++
+count:  18

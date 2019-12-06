@@ -21,9 +21,9 @@ class ResumeParser(object):
         self.raw = texts
         for p in texts:
             if len(p) > 10:
-                print("p -> ", p)
+                print(p)
                 s = word_tokenize(p.lower())
-                print("s -> ", s)
+                # print("s -> ", s)
                 unknown = True
                 name = extract_name(s, p)
                 email = extract_email(s, p)
